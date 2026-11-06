@@ -1,0 +1,242 @@
+{
+ "0": {
+  "n": 158,
+  "splits": {
+   "2": {
+    "sil": 0.039,
+    "sub": [
+     {
+      "n": 117,
+      "kw": [
+       "batting",
+       "performance",
+       "swing",
+       "visual",
+       "batters",
+       "ball",
+       "task",
+       "hitting"
+      ]
+     },
+     {
+      "n": 41,
+      "kw": [
+       "motor",
+       "brain",
+       "activity",
+       "neural",
+       "task",
+       "action",
+       "cortex",
+       "performance"
+      ]
+     }
+    ]
+   },
+   "3": {
+    "sil": 0.043,
+    "sub": [
+     {
+      "n": 47,
+      "kw": [
+       "motor",
+       "brain",
+       "activity",
+       "task",
+       "neural",
+       "action",
+       "reaction",
+       "response"
+      ]
+     },
+     {
+      "n": 74,
+      "kw": [
+       "batting",
+       "swing",
+       "performance",
+       "batters",
+       "bat",
+       "hitting",
+       "skill",
+       "pitch"
+      ]
+     },
+     {
+      "n": 37,
+      "kw": [
+       "visual",
+       "vision",
+       "eye",
+       "perception",
+       "movements",
+       "acuity",
+       "batting",
+       "performance"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "4": {
+  "n": 157,
+  "splits": {
+   "2": {
+    "sil": 0.026,
+    "sub": [
+     {
+      "n": 110,
+      "kw": [
+       "team",
+       "professional",
+       "performance",
+       "home",
+       "teams",
+       "leadership",
+       "knowledge",
+       "model"
+      ]
+     },
+     {
+      "n": 47,
+      "kw": [
+       "fans",
+       "social",
+       "fan",
+       "team",
+       "korean",
+       "identification",
+       "identity",
+       "cultural"
+      ]
+     }
+    ]
+   },
+   "3": {
+    "sil": 0.027,
+    "sub": [
+     {
+      "n": 44,
+      "kw": [
+       "knowledge",
+       "prediction",
+       "feature",
+       "learning",
+       "decision",
+       "performance",
+       "home",
+       "students"
+      ]
+     },
+     {
+      "n": 68,
+      "kw": [
+       "professional",
+       "team",
+       "leadership",
+       "teams",
+       "kbo",
+       "performance",
+       "winning",
+       "success"
+      ]
+     },
+     {
+      "n": 45,
+      "kw": [
+       "fans",
+       "social",
+       "fan",
+       "team",
+       "identification",
+       "emotional",
+       "identity",
+       "korean"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "2": {
+  "n": 60,
+  "splits": {
+   "2": {
+    "sil": 0.136,
+    "sub": [
+     {
+      "n": 31,
+      "kw": [
+       "injuries",
+       "injury",
+       "aes",
+       "rates",
+       "incidence",
+       "men",
+       "rate",
+       "women"
+      ]
+     },
+     {
+      "n": 29,
+      "kw": [
+       "concussion",
+       "concussions",
+       "head",
+       "brain",
+       "injury",
+       "contact",
+       "traumatic",
+       "days"
+      ]
+     }
+    ]
+   },
+   "3": {
+    "sil": 0.14,
+    "sub": [
+     {
+      "n": 30,
+      "kw": [
+       "injuries",
+       "injury",
+       "aes",
+       "rates",
+       "incidence",
+       "men",
+       "women",
+       "rate"
+      ]
+     },
+     {
+      "n": 9,
+      "kw": [
+       "concussion",
+       "contact",
+       "testing",
+       "scores",
+       "neuropsychological",
+       "baseline",
+       "high",
+       "school"
+      ]
+     },
+     {
+      "n": 21,
+      "kw": [
+       "concussion",
+       "concussions",
+       "head",
+       "traumatic",
+       "brain",
+       "injury",
+       "days",
+       "performance"
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

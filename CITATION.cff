@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this archive."
+title: "Mapping the Knowledge Structure of Baseball Psychology Research: code and data"
+authors:
+  - family-names: Lee
+    given-names: Jea Woog
+    orcid: https://orcid.org/0000-0001-8112-407X
+    affiliation: College of Sport Sciences, Chung-Ang University
+  - family-names: Han
+    given-names: Doug Hyun
+    affiliation: Department of Psychiatry, Chung-Ang University Hospital
+version: 1.2.0
+date-released: 2026-11-07
+repository-code: https://github.com/yyizeuks/baseball-psychology-mapping
+license: MIT

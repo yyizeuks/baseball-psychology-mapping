@@ -1,0 +1,1116 @@
+{
+ "pc_cascade": {
+  "eligible": 1125,
+  "retained": 551,
+  "retention": 0.4898,
+  "excluded_by_biomech": 120
+ },
+ "PC": {
+  "name": "psychology-core screen",
+  "n": 551,
+  "rule_K": 8,
+  "admissible": [
+   6,
+   7,
+   8
+  ],
+  "min_cluster": 21,
+  "sweep": [
+   {
+    "K": 6,
+    "silhouette": 0.0305,
+    "umass": -1.6364,
+    "min_cluster": 28
+   },
+   {
+    "K": 7,
+    "silhouette": 0.0294,
+    "umass": -1.5664,
+    "min_cluster": 57
+   },
+   {
+    "K": 8,
+    "silhouette": 0.0312,
+    "umass": -1.5582,
+    "min_cluster": 33
+   },
+   {
+    "K": 9,
+    "silhouette": 0.0329,
+    "umass": -1.5437,
+    "min_cluster": 13
+   },
+   {
+    "K": 10,
+    "silhouette": 0.0325,
+    "umass": -1.6226,
+    "min_cluster": 13
+   },
+   {
+    "K": 11,
+    "silhouette": 0.0343,
+    "umass": -1.5474,
+    "min_cluster": 13
+   },
+   {
+    "K": 12,
+    "silhouette": 0.0378,
+    "umass": -1.5715,
+    "min_cluster": 19
+   }
+  ],
+  "n_shared_with_primary": 551,
+  "retained_by_primary_domain": {
+   "A": 155,
+   "B": 242,
+   "C": 94,
+   "D": 60
+  },
+  "primary_domain_sizes": {
+   "A": 158,
+   "B": 242,
+   "C": 211,
+   "D": 60
+  },
+  "retained_by_primary_topic": {
+   "0": 155,
+   "1": 7,
+   "2": 60,
+   "3": 6,
+   "4": 157,
+   "5": 81,
+   "6": 85
+  },
+  "primary_topic_sizes": {
+   "0": 158,
+   "1": 38,
+   "2": 60,
+   "3": 71,
+   "4": 157,
+   "5": 102,
+   "6": 85
+  },
+  "solutions": {
+   "7": {
+    "ari_shared": 0.561,
+    "umass_mean": -1.661,
+    "topics": [
+     {
+      "t": 0,
+      "n": 76,
+      "kw": [
+       "team",
+       "fans",
+       "teams",
+       "professional",
+       "leadership",
+       "korean",
+       "social"
+      ],
+      "primary_match": 4,
+      "primary_overlap": 74,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 76,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": 5.35,
+      "ols_pfdr": 0.128,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.525,
+      "glm_pfdr": 0.102,
+      "mk_b": 5.83,
+      "mk_pfdr": 0.115
+     },
+     {
+      "t": 1,
+      "n": 43,
+      "kw": [
+       "injuries",
+       "injury",
+       "incidence",
+       "rates",
+       "aes",
+       "rate",
+       "men"
+      ],
+      "primary_match": 2,
+      "primary_overlap": 36,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 1,
+       "C": 6,
+       "D": 36
+      },
+      "ols_b": -5.79,
+      "ols_pfdr": 0.128,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.852,
+      "glm_pfdr": 0.016,
+      "mk_b": -4.96,
+      "mk_pfdr": 0.115
+     },
+     {
+      "t": 2,
+      "n": 41,
+      "kw": [
+       "concussion",
+       "impact",
+       "chest",
+       "head",
+       "testing",
+       "cardiac",
+       "injury"
+      ],
+      "primary_match": 3,
+      "primary_overlap": 24,
+      "primary_domain_composition": {
+       "A": 1,
+       "B": 1,
+       "C": 15,
+       "D": 24
+      },
+      "ols_b": -2.05,
+      "ols_pfdr": 0.383,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.381,
+      "glm_pfdr": 0.321,
+      "mk_b": -2.43,
+      "mk_pfdr": 0.365
+     },
+     {
+      "t": 3,
+      "n": 65,
+      "kw": [
+       "elbow",
+       "pain",
+       "shoulder",
+       "pitchers",
+       "injuries",
+       "injury",
+       "pitching"
+      ],
+      "primary_match": 5,
+      "primary_overlap": 48,
+      "primary_domain_composition": {
+       "A": 3,
+       "B": 3,
+       "C": 59,
+       "D": 0
+      },
+      "ols_b": 3.35,
+      "ols_pfdr": 0.243,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.165,
+      "glm_pfdr": 0.538,
+      "mk_b": 2.94,
+      "mk_pfdr": 0.184
+     },
+     {
+      "t": 4,
+      "n": 138,
+      "kw": [
+       "batting",
+       "performance",
+       "visual",
+       "batters",
+       "swing",
+       "motor",
+       "ball"
+      ],
+      "primary_match": 0,
+      "primary_overlap": 134,
+      "primary_domain_composition": {
+       "A": 134,
+       "B": 3,
+       "C": 1,
+       "D": 0
+      },
+      "ols_b": -10.47,
+      "ols_pfdr": 0.099,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.585,
+      "glm_pfdr": 0.012,
+      "mk_b": -9.9,
+      "mk_pfdr": 0.082
+     },
+     {
+      "t": 5,
+      "n": 83,
+      "kw": [
+       "burnout",
+       "tobacco",
+       "psychological",
+       "use",
+       "training",
+       "anxiety",
+       "high"
+      ],
+      "primary_match": 6,
+      "primary_overlap": 63,
+      "primary_domain_composition": {
+       "A": 4,
+       "B": 69,
+       "C": 10,
+       "D": 0
+      },
+      "ols_b": 5.34,
+      "ols_pfdr": 0.15,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.997,
+      "glm_pfdr": 0.012,
+      "mk_b": 8.96,
+      "mk_pfdr": 0.082
+     },
+     {
+      "t": 6,
+      "n": 105,
+      "kw": [
+       "knowledge",
+       "performance",
+       "cognitive",
+       "memory",
+       "mental",
+       "decision",
+       "youth"
+      ],
+      "primary_match": 1,
+      "primary_overlap": 72,
+      "primary_domain_composition": {
+       "A": 13,
+       "B": 89,
+       "C": 3,
+       "D": 0
+      },
+      "ols_b": 4.27,
+      "ols_pfdr": 0.326,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.235,
+      "glm_pfdr": 0.366,
+      "mk_b": 4.5,
+      "mk_pfdr": 0.293
+     }
+    ]
+   },
+   "8": {
+    "ari_shared": 0.408,
+    "umass_mean": -1.558,
+    "topics": [
+     {
+      "t": 0,
+      "n": 97,
+      "kw": [
+       "team",
+       "fans",
+       "professional",
+       "social",
+       "teams",
+       "leadership",
+       "korean"
+      ],
+      "primary_match": 4,
+      "primary_overlap": 95,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 97,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": 5.99,
+      "ols_pfdr": 0.119,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.269,
+      "glm_pfdr": 0.411,
+      "mk_b": 5.2,
+      "mk_pfdr": 0.131
+     },
+     {
+      "t": 1,
+      "n": 121,
+      "kw": [
+       "use",
+       "health",
+       "tobacco",
+       "psychological",
+       "high",
+       "coaches",
+       "professional"
+      ],
+      "primary_match": 6,
+      "primary_overlap": 75,
+      "primary_domain_composition": {
+       "A": 2,
+       "B": 92,
+       "C": 27,
+       "D": 0
+      },
+      "ols_b": 7.04,
+      "ols_pfdr": 0.31,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.967,
+      "glm_pfdr": 0.001,
+      "mk_b": 11.2,
+      "mk_pfdr": 0.092
+     },
+     {
+      "t": 2,
+      "n": 59,
+      "kw": [
+       "elbow",
+       "pain",
+       "pitchers",
+       "shoulder",
+       "pitching",
+       "injuries",
+       "fatigue"
+      ],
+      "primary_match": 5,
+      "primary_overlap": 40,
+      "primary_domain_composition": {
+       "A": 6,
+       "B": 1,
+       "C": 52,
+       "D": 0
+      },
+      "ols_b": 3.5,
+      "ols_pfdr": 0.314,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.115,
+      "glm_pfdr": 0.774,
+      "mk_b": 4.17,
+      "mk_pfdr": 0.222
+     },
+     {
+      "t": 3,
+      "n": 73,
+      "kw": [
+       "swing",
+       "ball",
+       "visual",
+       "batters",
+       "batting",
+       "task",
+       "perception"
+      ],
+      "primary_match": 0,
+      "primary_overlap": 72,
+      "primary_domain_composition": {
+       "A": 72,
+       "B": 1,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": -11.34,
+      "ols_pfdr": 0.062,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -1.039,
+      "glm_pfdr": 0.0,
+      "mk_b": -10.23,
+      "mk_pfdr": 0.005
+     },
+     {
+      "t": 4,
+      "n": 40,
+      "kw": [
+       "injuries",
+       "injury",
+       "incidence",
+       "rates",
+       "aes",
+       "rate",
+       "school"
+      ],
+      "primary_match": 2,
+      "primary_overlap": 34,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 0,
+       "C": 6,
+       "D": 34
+      },
+      "ols_b": -6.19,
+      "ols_pfdr": 0.119,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.941,
+      "glm_pfdr": 0.01,
+      "mk_b": -5.25,
+      "mk_pfdr": 0.092
+     },
+     {
+      "t": 5,
+      "n": 33,
+      "kw": [
+       "neural",
+       "activity",
+       "motor",
+       "brain",
+       "prediction",
+       "cortex",
+       "networks"
+      ],
+      "primary_match": 3,
+      "primary_overlap": 24,
+      "primary_domain_composition": {
+       "A": 24,
+       "B": 9,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": 1.9,
+      "ols_pfdr": 0.314,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.054,
+      "glm_pfdr": 0.879,
+      "mk_b": 1.67,
+      "mk_pfdr": 0.445
+     },
+     {
+      "t": 6,
+      "n": 93,
+      "kw": [
+       "performance",
+       "batting",
+       "training",
+       "skills",
+       "visual",
+       "vision",
+       "motor"
+      ],
+      "primary_match": 1,
+      "primary_overlap": 50,
+      "primary_domain_composition": {
+       "A": 50,
+       "B": 42,
+       "C": 1,
+       "D": 0
+      },
+      "ols_b": 1.03,
+      "ols_pfdr": 0.707,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.246,
+      "glm_pfdr": 0.439,
+      "mk_b": 1.64,
+      "mk_pfdr": 0.763
+     },
+     {
+      "t": 7,
+      "n": 35,
+      "kw": [
+       "concussion",
+       "impact",
+       "head",
+       "concussions",
+       "injury",
+       "testing",
+       "contact"
+      ],
+      "primary_match": null,
+      "primary_overlap": 26,
+      "primary_domain_composition": {
+       "A": 1,
+       "B": 0,
+       "C": 8,
+       "D": 26
+      },
+      "ols_b": -1.94,
+      "ols_pfdr": 0.387,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.45,
+      "glm_pfdr": 0.366,
+      "mk_b": -2.2,
+      "mk_pfdr": 0.515
+     }
+    ]
+   }
+  },
+  "domain_trends": {
+   "A": {
+    "n": 155,
+    "b": -14.3006,
+    "p": 0.007064,
+    "s0": 45.1,
+    "s1": 20.2,
+    "p_fdr": 0.014128
+   },
+   "B": {
+    "n": 242,
+    "b": 15.8477,
+    "p": 0.001583,
+    "s0": 28.1,
+    "s1": 53.6,
+    "p_fdr": 0.006332
+   },
+   "C": {
+    "n": 94,
+    "b": 5.7353,
+    "p": 0.016262,
+    "s0": 7.9,
+    "s1": 19.5,
+    "p_fdr": 0.021683
+   },
+   "D": {
+    "n": 60,
+    "b": -7.2824,
+    "p": 0.071232,
+    "s0": 18.9,
+    "s1": 6.6,
+    "p_fdr": 0.071232
+   }
+  },
+  "primary_topic_trends_in_variant": {
+   "0": {
+    "n": 155,
+    "b": -14.3006,
+    "p": 0.007064387389424267,
+    "p_fdr": 0.016484
+   },
+   "1": null,
+   "2": {
+    "n": 60,
+    "b": -7.2824,
+    "p": 0.07123239199414079,
+    "p_fdr": 0.124657
+   },
+   "3": null,
+   "4": {
+    "n": 157,
+    "b": 11.6767,
+    "p": 0.003267127280662151,
+    "p_fdr": 0.016484
+   },
+   "5": {
+    "n": 81,
+    "b": 4.9267,
+    "p": 0.005865942906862837,
+    "p_fdr": 0.016484
+   },
+   "6": {
+    "n": 85,
+    "b": 4.171,
+    "p": 0.17477851000556074,
+    "p_fdr": 0.24469
+   }
+  }
+ },
+ "bio_domain": "C",
+ "PH": {
+  "name": "post hoc removal of domain C",
+  "n": 460,
+  "rule_K": 6,
+  "admissible": [
+   6,
+   8,
+   9
+  ],
+  "min_cluster": 17,
+  "sweep": [
+   {
+    "K": 6,
+    "silhouette": 0.0327,
+    "umass": -1.424,
+    "min_cluster": 28
+   },
+   {
+    "K": 7,
+    "silhouette": 0.0335,
+    "umass": -1.4759,
+    "min_cluster": 13
+   },
+   {
+    "K": 8,
+    "silhouette": 0.0342,
+    "umass": -1.5174,
+    "min_cluster": 22
+   },
+   {
+    "K": 9,
+    "silhouette": 0.037,
+    "umass": -1.6191,
+    "min_cluster": 20
+   },
+   {
+    "K": 10,
+    "silhouette": 0.0365,
+    "umass": -1.497,
+    "min_cluster": 13
+   },
+   {
+    "K": 11,
+    "silhouette": 0.0395,
+    "umass": -1.6102,
+    "min_cluster": 13
+   },
+   {
+    "K": 12,
+    "silhouette": 0.0397,
+    "umass": -1.5053,
+    "min_cluster": 12
+   }
+  ],
+  "n_shared_with_primary": 460,
+  "retained_by_primary_domain": {
+   "A": 158,
+   "B": 242,
+   "C": 0,
+   "D": 60
+  },
+  "primary_domain_sizes": {
+   "A": 158,
+   "B": 242,
+   "C": 211,
+   "D": 60
+  },
+  "retained_by_primary_topic": {
+   "0": 158,
+   "1": 0,
+   "2": 60,
+   "3": 0,
+   "4": 157,
+   "5": 0,
+   "6": 85
+  },
+  "primary_topic_sizes": {
+   "0": 158,
+   "1": 38,
+   "2": 60,
+   "3": 71,
+   "4": 157,
+   "5": 102,
+   "6": 85
+  },
+  "solutions": {
+   "6": {
+    "ari_shared": 0.594,
+    "umass_mean": -1.424,
+    "topics": [
+     {
+      "t": 0,
+      "n": 28,
+      "kw": [
+       "concussion",
+       "concussions",
+       "head",
+       "testing",
+       "injury",
+       "baseline",
+       "contact"
+      ],
+      "primary_match": 1,
+      "primary_overlap": 27,
+      "primary_domain_composition": {
+       "A": 1,
+       "B": 0,
+       "C": 0,
+       "D": 27
+      },
+      "ols_b": -0.27,
+      "ols_pfdr": 0.915,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.178,
+      "glm_pfdr": 0.635,
+      "mk_b": 0.0,
+      "mk_pfdr": 0.833
+     },
+     {
+      "t": 1,
+      "n": 85,
+      "kw": [
+       "training",
+       "batting",
+       "skills",
+       "anxiety",
+       "cognitive",
+       "vision",
+       "visual"
+      ],
+      "primary_match": 3,
+      "primary_overlap": 40,
+      "primary_domain_composition": {
+       "A": 40,
+       "B": 45,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": 4.83,
+      "ols_pfdr": 0.115,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.569,
+      "glm_pfdr": 0.06,
+      "mk_b": 6.27,
+      "mk_pfdr": 0.154
+     },
+     {
+      "t": 2,
+      "n": 123,
+      "kw": [
+       "swing",
+       "batters",
+       "ball",
+       "motor",
+       "batting",
+       "visual",
+       "task"
+      ],
+      "primary_match": 0,
+      "primary_overlap": 117,
+      "primary_domain_composition": {
+       "A": 117,
+       "B": 6,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": -11.96,
+      "ols_pfdr": 0.106,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.661,
+      "glm_pfdr": 0.011,
+      "mk_b": -12.37,
+      "mk_pfdr": 0.069
+     },
+     {
+      "t": 3,
+      "n": 31,
+      "kw": [
+       "injuries",
+       "injury",
+       "rates",
+       "aes",
+       "incidence",
+       "school",
+       "rate"
+      ],
+      "primary_match": 2,
+      "primary_overlap": 31,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 0,
+       "C": 0,
+       "D": 31
+      },
+      "ols_b": -6.53,
+      "ols_pfdr": 0.106,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.99,
+      "glm_pfdr": 0.014,
+      "mk_b": -5.73,
+      "mk_pfdr": 0.069
+     },
+     {
+      "t": 4,
+      "n": 121,
+      "kw": [
+       "professional",
+       "fans",
+       "team",
+       "social",
+       "identity",
+       "teams",
+       "events"
+      ],
+      "primary_match": 4,
+      "primary_overlap": 117,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 119,
+       "C": 0,
+       "D": 2
+      },
+      "ols_b": 10.27,
+      "ols_pfdr": 0.106,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.37,
+      "glm_pfdr": 0.119,
+      "mk_b": 13.01,
+      "mk_pfdr": 0.069
+     },
+     {
+      "t": 5,
+      "n": 72,
+      "kw": [
+       "use",
+       "tobacco",
+       "coaches",
+       "health",
+       "high",
+       "youth",
+       "physical"
+      ],
+      "primary_match": 6,
+      "primary_overlap": 66,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 72,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": 3.66,
+      "ols_pfdr": 0.282,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.741,
+      "glm_pfdr": 0.044,
+      "mk_b": 4.73,
+      "mk_pfdr": 0.317
+     }
+    ]
+   },
+   "7": {
+    "ari_shared": 0.566,
+    "umass_mean": -1.476,
+    "topics": [
+     {
+      "t": 0,
+      "n": 23,
+      "kw": [
+       "injuries",
+       "injury",
+       "aes",
+       "rates",
+       "school",
+       "men",
+       "incidence"
+      ],
+      "primary_match": 5,
+      "primary_overlap": 23,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 0,
+       "C": 0,
+       "D": 23
+      },
+      "ols_b": -6.94,
+      "ols_pfdr": 0.097,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -1.181,
+      "glm_pfdr": 0.009,
+      "mk_b": -4.67,
+      "mk_pfdr": 0.108
+     },
+     {
+      "t": 1,
+      "n": 47,
+      "kw": [
+       "neural",
+       "motor",
+       "activity",
+       "brain",
+       "eeg",
+       "cortex",
+       "task"
+      ],
+      "primary_match": 3,
+      "primary_overlap": 38,
+      "primary_domain_composition": {
+       "A": 38,
+       "B": 9,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": 2.21,
+      "ols_pfdr": 0.402,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": -0.017,
+      "glm_pfdr": 0.955,
+      "mk_b": 0.69,
+      "mk_pfdr": 0.534
+     },
+     {
+      "t": 2,
+      "n": 107,
+      "kw": [
+       "training",
+       "psychological",
+       "anxiety",
+       "coaches",
+       "motivation",
+       "youth",
+       "stress"
+      ],
+      "primary_match": 6,
+      "primary_overlap": 72,
+      "primary_domain_composition": {
+       "A": 10,
+       "B": 97,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": 13.99,
+      "ols_pfdr": 0.002,
+      "ols_cls": "Hot",
+      "glm_b": 1.063,
+      "glm_pfdr": 0.001,
+      "mk_b": 14.65,
+      "mk_pfdr": 0.02
+     },
+     {
+      "t": 3,
+      "n": 110,
+      "kw": [
+       "batting",
+       "swing",
+       "visual",
+       "ball",
+       "batters",
+       "hitting",
+       "task"
+      ],
+      "primary_match": 0,
+      "primary_overlap": 106,
+      "primary_domain_composition": {
+       "A": 106,
+       "B": 4,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": -12.39,
+      "ols_pfdr": 0.022,
+      "ols_cls": "Cold",
+      "glm_b": -0.57,
+      "glm_pfdr": 0.022,
+      "mk_b": -11.31,
+      "mk_pfdr": 0.046
+     },
+     {
+      "t": 4,
+      "n": 124,
+      "kw": [
+       "team",
+       "professional",
+       "fans",
+       "teams",
+       "home",
+       "events",
+       "korean"
+      ],
+      "primary_match": 4,
+      "primary_overlap": 119,
+      "primary_domain_composition": {
+       "A": 3,
+       "B": 119,
+       "C": 0,
+       "D": 2
+      },
+      "ols_b": 6.1,
+      "ols_pfdr": 0.2,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": 0.271,
+      "glm_pfdr": 0.39,
+      "mk_b": 5.59,
+      "mk_pfdr": 0.485
+     },
+     {
+      "t": 5,
+      "n": 13,
+      "kw": [
+       "tobacco",
+       "use",
+       "users",
+       "smokeless",
+       "health",
+       "california",
+       "initiation"
+      ],
+      "primary_match": 1,
+      "primary_overlap": 13,
+      "primary_domain_composition": {
+       "A": 0,
+       "B": 13,
+       "C": 0,
+       "D": 0
+      },
+      "ols_b": -3.1,
+      "ols_pfdr": 0.2,
+      "ols_cls": "negative (n.s.)",
+      "glm_b": -0.531,
+      "glm_pfdr": 0.593,
+      "mk_b": 0.0,
+      "mk_pfdr": 1.0
+     },
+     {
+      "t": 6,
+      "n": 36,
+      "kw": [
+       "concussion",
+       "injuries",
+       "injury",
+       "concussions",
+       "head",
+       "brain",
+       "testing"
+      ],
+      "primary_match": 2,
+      "primary_overlap": 35,
+      "primary_domain_composition": {
+       "A": 1,
+       "B": 0,
+       "C": 0,
+       "D": 35
+      },
+      "ols_b": 0.14,
+      "ols_pfdr": 0.961,
+      "ols_cls": "positive (n.s.)",
+      "glm_b": -0.189,
+      "glm_pfdr": 0.673,
+      "mk_b": 0.0,
+      "mk_pfdr": 1.0
+     }
+    ]
+   }
+  },
+  "domain_trends": {
+   "A": {
+    "n": 158,
+    "b": -14.1809,
+    "p": 0.010415,
+    "s0": 50.2,
+    "s1": 25.6,
+    "p_fdr": 0.015623
+   },
+   "B": {
+    "n": 242,
+    "b": 21.7742,
+    "p": 0.000275,
+    "s0": 30.1,
+    "s1": 66.3,
+    "p_fdr": 0.000825
+   },
+   "D": {
+    "n": 60,
+    "b": -7.5933,
+    "p": 0.087699,
+    "s0": 19.7,
+    "s1": 8.1,
+    "p_fdr": 0.087699
+   }
+  },
+  "primary_topic_trends_in_variant": {
+   "0": {
+    "n": 158,
+    "b": -14.1809,
+    "p": 0.010415447044111466,
+    "p_fdr": 0.036454
+   },
+   "1": null,
+   "2": {
+    "n": 60,
+    "b": -7.5933,
+    "p": 0.08769902193658731,
+    "p_fdr": 0.153473
+   },
+   "3": null,
+   "4": {
+    "n": 157,
+    "b": 15.2851,
+    "p": 0.0012581211654300165,
+    "p_fdr": 0.008807
+   },
+   "5": null,
+   "6": {
+    "n": 85,
+    "b": 6.4891,
+    "p": 0.06563247540002803,
+    "p_fdr": 0.153142
+   }
+  }
+ }
+}

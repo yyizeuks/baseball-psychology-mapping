@@ -1,0 +1,35 @@
+{
+  "title": "Mapping the Knowledge Structure of Baseball Psychology Research: code and data for a systematic mapping review",
+  "upload_type": "dataset",
+  "description": "Analysis code, retrieved bibliographic records, screened corpus with topic and domain assignments, relevance lexicons, PubMed metadata enrichment, sensitivity analyses, and figures for a systematic mapping review of baseball psychology research (Lee and Han, Frontiers in Psychology). Code is released under the MIT License (see LICENSE); derived data and figures under CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Lee, Jea Woog",
+      "affiliation": "College of Sport Sciences, Chung-Ang University",
+      "orcid": "0000-0001-8112-407X"
+    },
+    {
+      "name": "Han, Doug Hyun",
+      "affiliation": "Chung-Ang University Hospital"
+    }
+  ],
+  "keywords": [
+    "baseball",
+    "sport psychology",
+    "topic modeling",
+    "latent semantic analysis",
+    "bibliometrics",
+    "systematic mapping review"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yyizeuks/baseball-psychology-mapping",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "version": "1.2.0"
+}

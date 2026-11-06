@@ -1,0 +1,213 @@
+MATCHING: each entry is matched case-insensitively on the lower-cased title + abstract + keywords as a
+word-initial stem (\b + stem; e.g. 'mental' matches 'mental', 'mentally', not 'experimental');
+multi-word entries are matched as phrases; context exclusions apply to five entries (see below).
+
+PSYCHOLOGICAL / BEHAVIORAL LEXICON
+psycholog
+mental
+cognit
+percept
+attention
+anticipat
+decision
+motivation
+emotion
+anxiety
+depress
+stress
+burnout
+confidence
+self-efficacy
+efficacy
+arousal
+mood
+wellbeing
+well-being
+personality
+behavio
+social
+team
+leader
+coach
+fan
+spectator
+identity
+identit
+fan identification
+team identification
+motor learning
+motor control
+skill acquisi
+expertise
+practice
+learning
+memory
+attitude
+adhd
+ptsd
+concussion
+neurocognit
+brain
+neural
+eeg
+fmri
+gaze
+eye movement
+visual search
+reaction time
+quiet eye
+imagery
+mindfulness
+coping
+resilien
+adherence
+fatigue
+sleep
+substance
+alcohol
+tobacco
+doping
+quality of life
+satisfaction
+engagement
+dropout
+youth development
+parent
+student-athlete
+retirement
+career
+umpire
+judgment
+bias
+expectancy
+choking
+pressure
+self-talk
+goal setting
+group dynamic
+
+STRICT PSYCHOLOGICAL LEXICON (sensitivity analysis)
+psycholog
+mental
+cognit
+percept
+attention
+anticipat
+decision
+motivation
+emotion
+anxiety
+depress
+stress
+burnout
+confidence
+self-efficacy
+arousal
+mood
+wellbeing
+well-being
+personality
+motor learning
+skill acquisi
+expertise
+memory
+attitude
+adhd
+ptsd
+neurocognit
+brain
+neural
+eeg
+fmri
+gaze
+eye movement
+visual search
+reaction time
+quiet eye
+imagery
+mindfulness
+coping
+resilien
+quality of life
+satisfaction
+dropout
+choking
+self-talk
+goal setting
+group dynamic
+
+PROCEDURAL-MEDICINE LEXICON
+arthroscop
+surgical technique
+surgery
+reconstruct
+fixation
+graft
+suture
+radiograph
+mri
+ultrasound
+imaging
+histolog
+cadaver
+anatomic
+biopsy
+osteochondr
+dissecans
+capitell
+hamate
+olecranon
+spondylol
+ligament
+tendon
+lesion
+fracture
+
+BASEBALL (TOPICALITY) LEXICON
+baseball
+softball
+pitcher
+pitchers
+pitching
+\bbatter(?![yi])
+batting
+hitter
+hitters
+ballplayer
+ballplayers
+ballpark
+mlb
+major league
+minor league
+little league
+npb
+kbo
+
+TOPICALITY RULE
+retain if (baseball-specific mentions in title >= 1) or (baseball-specific mentions in abstract + keywords >= 2);
+a mention is one baseball-specific phrase: the sport name (baseball, softball) or a role/league term (pitcher, batter,
+hitter, ballplayer, ballpark, MLB, major/minor/little league, NPB, KBO); a league name combined with the sport name and
+its acronym ('Major League Baseball (MLB)', 'Little League baseball') and a sport name followed by a role term
+('baseball pitchers') each count once; 'baseball cap(s)' is not a mention
+REGEX AS APPLIED (topicality)
+\b(?:(?:major|minor|little)\s+league\s+(?:baseball|softball)\b(?:\s*\(\s*(?:mlb|milb|llb)\s*\))?|(?:baseball|softball)\s+(?:pitchers?|pitching|batters?|batting|hitters?|ballplayers?|players?)\b|(?:baseball|softball)\b(?!\s+caps?\b)|(?:pitchers?|pitching|batter(?![yi])s?|batting|hitters?|ballplayers?|ballpark|mlb)\b|(?:major\s+league|minor\s+league|little\s+league|npb|kbo)\b)
+
+PUBLICATION-TYPE EXCLUSION
+title patterns: \(\s*1[89]\d{2}\s*[\u2013\u2014-]\s*(?:19|20)\d{2}\s*\)\.?\s*$|\bobituar|\bin memoriam\b|\binterview by\b|\berratum\b|\bcorrigend|^correction to\b|^retraction
+plus records whose PubMed publication type is Editorial, Letter, News, Interview, Biography or Portrait (non_research_records.csv)
+
+CONTEXT EXCLUSIONS
+confidence: \bconfidence(?!\s+interval)
+learning: (?<!machine )\blearning
+pressure: (?<!blood )\bpressure
+bias: (?<!selection )(?<!publication )(?<!recall )(?<!reporting )\bbias
+fan: \bfan(?!ning\b)(?!s?\s+(?:cool|speed|blade|motor))
+
+DECISION RULE
+retain if (psychological matches >= 2) and (psychological matches >= procedural matches)
+
+REGEX AS APPLIED (psychological lexicon)
+(?:\bpsycholog|\bmental|\bcognit|\bpercept|\battention|\banticipat|\bdecision|\bmotivation|\bemotion|\banxiety|\bdepress|\bstress|\bburnout|\bconfidence(?!\s+interval)|\bself-efficacy|\befficacy|\barousal|\bmood|\bwellbeing|\bwell-being|\bpersonality|\bbehavio|\bsocial|\bteam|\bleader|\bcoach|\bfan(?!ning\b)(?!s?\s+(?:cool|speed|blade|motor))|\bspectator|\bidentity|\bidentit|\bfan\s+identification|\bteam\s+identification|\bmotor\s+learning|\bmotor\s+control|\bskill\s+acquisi|\bexpertise|\bpractice|(?<!machine )\blearning|\bmemory|\battitude|\badhd|\bptsd|\bconcussion|\bneurocognit|\bbrain|\bneural|\beeg|\bfmri|\bgaze|\beye\s+movement|\bvisual\s+search|\breaction\s+time|\bquiet\s+eye|\bimagery|\bmindfulness|\bcoping|\bresilien|\badherence|\bfatigue|\bsleep|\bsubstance|\balcohol|\btobacco|\bdoping|\bquality\s+of\s+life|\bsatisfaction|\bengagement|\bdropout|\byouth\s+development|\bparent|\bstudent-athlete|\bretirement|\bcareer|\bumpire|\bjudgment|(?<!selection )(?<!publication )(?<!recall )(?<!reporting )\bbias|\bexpectancy|\bchoking|(?<!blood )\bpressure|\bself-talk|\bgoal\s+setting|\bgroup\s+dynamic)
+
+REGEX AS APPLIED (procedural-medicine lexicon)
+(?:\barthroscop|\bsurgical\s+technique|\bsurgery|\breconstruct|\bfixation|\bgraft|\bsuture|\bradiograph|\bmri|\bultrasound|\bimaging|\bhistolog|\bcadaver|\banatomic|\bbiopsy|\bosteochondr|\bdissecans|\bcapitell|\bhamate|\bolecranon|\bspondylol|\bligament|\btendon|\blesion|\bfracture)

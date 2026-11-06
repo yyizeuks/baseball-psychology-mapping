@@ -1,0 +1,113 @@
+{
+ "n_indexed": 653,
+ "n_retained": 304,
+ "n_excluded": 349,
+ "prevalence_retained": 0.602,
+ "prevalence_excluded": 0.287,
+ "screen_vs_mesh": {
+  "tp": 183,
+  "fp": 121,
+  "fn": 100,
+  "tn": 249,
+  "precision": 0.602,
+  "recall": 0.647,
+  "specificity": 0.673,
+  "accuracy": 0.662
+ },
+ "screen_vs_mesh_major": {
+  "tp": 102,
+  "fp": 202,
+  "fn": 46,
+  "tn": 303,
+  "precision": 0.336,
+  "recall": 0.689,
+  "specificity": 0.6,
+  "accuracy": 0.62
+ },
+ "ta_screen_vs_mesh": {
+  "tp": 226,
+  "fp": 149,
+  "fn": 57,
+  "tn": 221,
+  "precision": 0.603,
+  "recall": 0.799,
+  "specificity": 0.597,
+  "accuracy": 0.685
+ },
+ "ta_agreement_with_full_screen": 0.836,
+ "truth_by_domain": {
+  "A": 0.908,
+  "B": 0.855,
+  "C": 0.23,
+  "D": 0.324
+ },
+ "truth_by_topic": {
+  "0": 0.908,
+  "1": 0.222,
+  "2": 0.324,
+  "3": 0.135,
+  "4": 0.833,
+  "5": 0.311,
+  "6": 0.879
+ },
+ "fp_by_topic": {
+  "0": 9,
+  "1": 14,
+  "2": 25,
+  "3": 32,
+  "4": 6,
+  "5": 31,
+  "6": 4
+ },
+ "fp_by_domain": {
+  "A": 9,
+  "B": 10,
+  "C": 77,
+  "D": 25
+ },
+ "prevalence_excluded_by_reason": {
+  "relevance": 0.1496,
+  "topicality": 0.5652
+ },
+ "n_excluded_by_reason": {
+  "relevance": 234,
+  "topicality": 115
+ },
+ "fp_share_domain_B": 0.083,
+ "n_topical_indexed": 538,
+ "n_topicality_failures_indexed": 115,
+ "screen_vs_mesh_topical": {
+  "tp": 183,
+  "fp": 121,
+  "fn": 35,
+  "tn": 199,
+  "precision": 0.602,
+  "recall": 0.839,
+  "specificity": 0.622,
+  "accuracy": 0.71
+ },
+ "ta_screen_vs_mesh_topical": {
+  "tp": 171,
+  "fp": 122,
+  "fn": 47,
+  "tn": 198,
+  "precision": 0.584,
+  "recall": 0.784,
+  "specificity": 0.619,
+  "accuracy": 0.686
+ },
+ "n_matched_not_indexed": {
+  "all": 258,
+  "retained": 111
+ },
+ "baseball_heading_retained": 0.822,
+ "baseball_heading_excluded": 0.616,
+ "baseball_heading_by_domain": {
+  "A": 0.929,
+  "B": 0.754,
+  "C": 0.92,
+  "D": 0.405
+ },
+ "methods_paragraph": "As an independent check that does not rely on the authors' judgment, the screen was compared with the Medical Subject Headings (MeSH) assigned to each PubMed-indexed record by National Library of Medicine indexers. A record was taken to have indexed psychological content when at least one of its headings belonged to MeSH tree category F (Psychiatry and Psychology) or carried the /psychology qualifier; a stricter version counted only major-topic headings. The comparison was made for every eligible record, retained or excluded, that matched a PubMed record with MeSH indexing, and the screen decision was recomputed from the title and abstract alone so that the comparison did not depend on the keyword field, which for PubMed records contains the MeSH terms themselves. Precision (the share of retained records with indexed psychological content), recall (the share of records with indexed psychological content that the screen retained), and specificity were computed. Indexing captures psychological content as a subject of the article rather than the behavioral framing that the inclusive screen was designed to admit, so the comparison characterizes the boundary of the screen rather than grading it.",
+ "supp_paragraph": "Independent check against MeSH indexing: 653 eligible records with MeSH headings (258 matched records without headings omitted); psychology-category heading or /psychology qualifier present in 60% of retained and 29% of excluded records. On the 538 indexed records that passed the topicality rule and therefore reached the relevance screen: precision 0.60, recall 0.84, specificity 0.62, accuracy 0.71 (title-and-abstract-only rule: precision 0.58, recall 0.78). On all 653 indexed eligible records, with the records removed by the topicality rule counted as negatives: precision 0.60, recall 0.65, specificity 0.67, accuracy 0.66. Per-record data are deposited (mesh_validation_data.json)."
+}

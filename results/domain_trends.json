@@ -1,0 +1,295 @@
+{
+ "A": {
+  "n": 158,
+  "ols_b": -10.67,
+  "ols_se": 3.05,
+  "ols_p": 0.002433,
+  "ols_pfdr": 0.009733,
+  "r2": 0.391,
+  "glm_b": -0.639,
+  "glm_p": 0.000412,
+  "glm_pfdr": 0.00165,
+  "clr_b": -0.297,
+  "clr_p": 0.016703,
+  "clr_pfdr": 0.022271,
+  "mk_sen": -11.84,
+  "mk_p": 0.00137,
+  "mk_pfdr": 0.00548,
+  "share_2005_09": 34.7,
+  "share_2021_25": 16.0,
+  "n_sig": 4,
+  "cls": "Cold",
+  "name": "Perceptual\u2013motor expertise and batting performance",
+  "topics": [
+   0
+  ]
+ },
+ "B": {
+  "n": 242,
+  "ols_b": 11.55,
+  "ols_se": 4.0,
+  "ols_p": 0.009451,
+  "ols_pfdr": 0.018902,
+  "r2": 0.305,
+  "glm_b": 0.553,
+  "glm_p": 0.001741,
+  "glm_pfdr": 0.002321,
+  "clr_b": 0.515,
+  "clr_p": 0.002981,
+  "clr_pfdr": 0.011925,
+  "mk_sen": 12.58,
+  "mk_p": 0.029692,
+  "mk_pfdr": 0.046045,
+  "share_2005_09": 22.7,
+  "share_2021_25": 41.5,
+  "n_sig": 4,
+  "cls": "Hot",
+  "name": "Psychosocial, organizational, and health-behavior research",
+  "topics": [
+   4,
+   6
+  ]
+ },
+ "C": {
+  "n": 211,
+  "ols_b": 4.79,
+  "ols_se": 2.94,
+  "ols_p": 0.120119,
+  "ols_pfdr": 0.120119,
+  "r2": 0.122,
+  "glm_b": 0.349,
+  "glm_p": 0.044036,
+  "glm_pfdr": 0.044036,
+  "clr_b": 0.288,
+  "clr_p": 0.029597,
+  "clr_pfdr": 0.029597,
+  "mk_sen": 4.7,
+  "mk_p": 0.102968,
+  "mk_pfdr": 0.102968,
+  "share_2005_09": 28.8,
+  "share_2021_25": 37.5,
+  "n_sig": 2,
+  "cls": "positive (n.s.)",
+  "name": "Throwing-arm biomechanics and sports medicine",
+  "topics": [
+   3,
+   1,
+   5
+  ]
+ },
+ "D": {
+  "n": 60,
+  "ols_b": -5.67,
+  "ols_se": 2.84,
+  "ols_p": 0.06044,
+  "ols_pfdr": 0.080586,
+  "r2": 0.173,
+  "glm_b": -0.791,
+  "glm_p": 0.00171,
+  "glm_pfdr": 0.002321,
+  "clr_b": -0.506,
+  "clr_p": 0.008238,
+  "clr_pfdr": 0.016476,
+  "mk_sen": -5.53,
+  "mk_p": 0.034534,
+  "mk_pfdr": 0.046045,
+  "share_2005_09": 13.8,
+  "share_2021_25": 5.1,
+  "n_sig": 3,
+  "cls": "negative (n.s.)",
+  "name": "Injury and concussion epidemiology",
+  "topics": [
+   2
+  ]
+ },
+ "within_domain_family_size": 4,
+ "within_domain": {
+  "B:T4": {
+   "domain": "B",
+   "topic": 4,
+   "ols_b": 2.9,
+   "ols_p": 0.736246,
+   "glm_b": -0.254,
+   "glm_p": 0.42756,
+   "share_2005_09": 56.7,
+   "share_2021_25": 66.4,
+   "ols_pfdr": 0.772403,
+   "glm_pfdr": 0.57008
+  },
+  "B:T6": {
+   "domain": "B",
+   "topic": 6,
+   "ols_b": -2.9,
+   "ols_p": 0.736246,
+   "glm_b": 0.254,
+   "glm_p": 0.42756,
+   "share_2005_09": 43.3,
+   "share_2021_25": 33.6,
+   "ols_pfdr": 0.772403,
+   "glm_pfdr": 0.57008
+  },
+  "C:T3": {
+   "domain": "C",
+   "topic": 3,
+   "ols_b": -6.17,
+   "ols_p": 0.47096,
+   "glm_b": -0.326,
+   "glm_p": 0.256893,
+   "share_2005_09": 47.7,
+   "share_2021_25": 34.9,
+   "ols_pfdr": 0.772403,
+   "glm_pfdr": 0.513786
+  },
+  "C:T1": {
+   "domain": "C",
+   "topic": 1,
+   "ols_b": 8.32,
+   "ols_p": 0.109936,
+   "glm_b": 0.743,
+   "glm_p": 0.088466,
+   "share_2005_09": 5.0,
+   "share_2021_25": 21.3,
+   "ols_pfdr": 0.439744,
+   "glm_pfdr": 0.353864
+  },
+  "C:T5": {
+   "domain": "C",
+   "topic": 5,
+   "ols_b": -2.15,
+   "ols_p": 0.772403,
+   "glm_b": -0.057,
+   "glm_p": 0.837677,
+   "share_2005_09": 47.3,
+   "share_2021_25": 43.7,
+   "ols_pfdr": 0.772403,
+   "glm_pfdr": 0.837677
+  }
+ },
+ "window_sensitivity": {
+  "2001": {
+   "window": [
+    2001,
+    2025
+   ],
+   "n_years": 25,
+   "n_articles": 587,
+   "min_year_count": 7,
+   "max_year_count_early": 10,
+   "domains": {
+    "A": {
+     "b": -5.14,
+     "p": 0.087428,
+     "glm_b": -0.437,
+     "glm_p": 0.00302,
+     "p_fdr": 0.254702,
+     "glm_pfdr": 0.012082
+    },
+    "B": {
+     "b": 4.74,
+     "p": 0.17156,
+     "glm_b": 0.35,
+     "glm_p": 0.014246,
+     "p_fdr": 0.254702,
+     "glm_pfdr": 0.018995
+    },
+    "C": {
+     "b": 2.99,
+     "p": 0.214086,
+     "glm_b": 0.259,
+     "glm_p": 0.06902,
+     "p_fdr": 0.254702,
+     "glm_pfdr": 0.06902
+    },
+    "D": {
+     "b": -2.59,
+     "p": 0.254702,
+     "glm_b": -0.526,
+     "glm_p": 0.010314,
+     "p_fdr": 0.254702,
+     "glm_pfdr": 0.018995
+    }
+   }
+  },
+  "2010": {
+   "window": [
+    2010,
+    2025
+   ],
+   "n_years": 16,
+   "n_articles": 495,
+   "min_year_count": 7,
+   "max_year_count_early": 19,
+   "domains": {
+    "A": {
+     "b": -12.27,
+     "p": 0.025062,
+     "glm_b": -0.809,
+     "glm_p": 0.002028,
+     "p_fdr": 0.033294,
+     "glm_pfdr": 0.004851
+    },
+    "B": {
+     "b": 13.34,
+     "p": 0.033294,
+     "glm_b": 0.61,
+     "glm_p": 0.010716,
+     "p_fdr": 0.033294,
+     "glm_pfdr": 0.014287
+    },
+    "C": {
+     "b": 8.91,
+     "p": 0.005632,
+     "glm_b": 0.475,
+     "glm_p": 0.04725,
+     "p_fdr": 0.020129,
+     "glm_pfdr": 0.04725
+    },
+    "D": {
+     "b": -9.99,
+     "p": 0.010065,
+     "glm_b": -1.151,
+     "glm_p": 0.002426,
+     "p_fdr": 0.020129,
+     "glm_pfdr": 0.004851
+    }
+   }
+  }
+ },
+ "era_share_pct": {
+  "A": [
+   22.5,
+   29.5,
+   32.0,
+   26.5,
+   18.4
+  ],
+  "B": [
+   57.5,
+   29.5,
+   29.3,
+   27.8,
+   41.0
+  ],
+  "C": [
+   17.5,
+   28.4,
+   26.7,
+   31.8,
+   35.2
+  ],
+  "D": [
+   2.5,
+   12.6,
+   12.0,
+   13.9,
+   5.5
+  ]
+ },
+ "eras": [
+  "1990-1999",
+  "2000-2009",
+  "2010-2014",
+  "2015-2019",
+  "2020-2026"
+ ]
+}

@@ -1,0 +1,106 @@
+topic,label,domain,rank,cosine,year,title
+0,"Perception–action coupling, visual abilities, and batting expertise",A,1,0.666,2007,Perception-action coupling and anticipatory performance in baseball batting.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,2,0.61,2013,Being selective at the plate: processing dependence between perceptual variables relates to hitting goals and performance.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,3,0.594,2004,"Attending to the execution of a complex sensorimotor skill: expertise differences, choking, and slumps."
+0,"Perception–action coupling, visual abilities, and batting expertise",A,4,0.59,2014,Pick-up of early visual information to guide kinetics and kinematics within a group of highly skilled baseball batters.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,5,0.584,2021,Differences in Baseball Batting Movement Patterns Between Facing a Pitcher and a Pitching Machine.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,6,0.579,2009,Visual search strategies and decision making in baseball batting.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,7,0.566,2015,Knowing when not to swing: EEG evidence that enhanced perception-action coupling underlies baseball batter expertise.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,8,0.563,2020,Behavioral Measures in a Cognitive-Motor Batting Task Explain Real Game Performance of Top Athletes.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,9,0.562,2015,Effects of sport expertise on representational momentum during timing control.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,10,0.559,2020,Baseball Players' Eye Movements and Higher Coincident-Timing Task Performance
+0,"Perception–action coupling, visual abilities, and batting expertise",A,11,0.545,2018,The Hand-eye Coordination of Professional Baseball Players: The Relationship to Batting.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,12,0.54,2009,A model of motor inhibition for a complex skill: baseball batting.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,13,0.539,2011,Hitting is contagious: experience and action induction.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,14,0.535,2002,Behavior of college baseball players in a virtual batting task.
+0,"Perception–action coupling, visual abilities, and batting expertise",A,15,0.532,2026,Preplanned versus online control in baseball batting: Effects of temporal constraints and spatial uncertainty.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,1,0.839,1998,Medial elbow joint laxity in professional baseball pitchers. A bilateral comparison using stress radiography.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,2,0.821,2016,"The morphologic change of the ulnar collateral ligament of elbow in high school baseball pitchers, with and without symptoms, by sonography."
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,3,0.795,2020,Flexor pronator muscles' contribution to elbow joint valgus stability: ultrasonographic analysis in high school pitchers with and without symptoms.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,4,0.788,2025,A Novel Ultrasound Assessment Technique of the Ulnar Collateral Ligament to Account for the Valgus Stress Effect of Gravity on the Medial Elbow.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,5,0.785,2014,Stress sonography of the ulnar collateral ligament of the elbow in professional baseball pitchers: a 10-year study.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,6,0.785,2024,"The ulnar collateral ligament response to valgus stress, repetitive pitching, and elbow muscle contraction in asymptomatic baseball pitchers."
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,7,0.765,2025,Relationship Between Ulnar Nerve Instability and the Degree of Ulnar Collateral Ligament Laxity in High School Baseball Pitchers.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,8,0.764,2019,Relationship between the elbow joint valgus instability and forearm flexor muscle strength in high school pitchers with and without symptom.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,9,0.756,2021,Changes in elbow joint contact area in symptomatic valgus instability of the elbow in baseball players.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,10,0.749,2017,Relation between glenohumeral internal rotation deficit and valgus laxity of the elbow in high school baseball pitchers.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,11,0.749,2018,The effect of repetitive baseball pitching on medial elbow joint space gapping associated with 2 elbow valgus stressors in high school baseball players
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,12,0.749,2024,Impact of Climate on Stress Ultrasound Findings of the Elbow Ulnar Collateral Ligament in Professional Baseball Pitchers: An 18-Year Study.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,13,0.745,2025,"Relationship between the carrying angle, medial instability of the elbow, and general joint laxity in high school baseball pitchers: a cross-sectional study."
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,14,0.738,2024,Optimal Limb Position for the Stress Ultrasound Evaluation of Elbow Valgus Laxity in Baseball Players.
+1,Medial elbow valgus loading and ulnar collateral ligament integrity,C,15,0.733,2026,Influence of medial epicondyle morphology on the contribution of flexor-pronator muscle contractions to dynamic elbow stability.
+2,Concussion and multi-sport injury surveillance,D,1,0.797,2019,Concussion Incidence and Trends in 20 High School Sports.
+2,Concussion and multi-sport injury surveillance,D,2,0.794,2017,Epidemiologic Measures for Quantifying the Incidence of Concussion in National Collegiate Athletic Association Sports.
+2,Concussion and multi-sport injury surveillance,D,3,0.783,2011,Trends in concussion incidence in high school sports: a prospective 11-year study.
+2,Concussion and multi-sport injury surveillance,D,4,0.77,2016,Sex Differences in Reported Concussion Injury Rates and Time Loss From Participation: An Update of the National Collegiate Athletic Association Injury Surveillance Program From 2004-2005 Through 2008-2009.
+2,Concussion and multi-sport injury surveillance,D,5,0.741,2017,"Ball-Contact Injuries in 11 National Collegiate Athletic Association Sports: The Injury Surveillance Program, 2009-2010 Through 2014-2015."
+2,Concussion and multi-sport injury surveillance,D,6,0.723,2017,Descriptive Epidemiology of Non-Time-Loss Injuries in Collegiate and High School Student-Athletes.
+2,Concussion and multi-sport injury surveillance,D,7,0.71,2007,Epidemiology of collegiate injuries for 15 sports: summary and recommendations for injury prevention initiatives.
+2,Concussion and multi-sport injury surveillance,D,8,0.699,1999,Traumatic brain injury in high school athletes.
+2,Concussion and multi-sport injury surveillance,D,9,0.698,2007,"Ankle injuries among United States high school sports athletes, 2005-2006."
+2,Concussion and multi-sport injury surveillance,D,10,0.69,2022,Epidemiology of Concussions in National Collegiate Athletic Association (NCAA) Sports: 2014/15-2018/19.
+2,Concussion and multi-sport injury surveillance,D,11,0.668,2024,Return to play after head injury in adolescent sports: evaluating football versus other sports.
+2,Concussion and multi-sport injury surveillance,D,12,0.665,2008,An epidemiologic comparison of high school sports injuries sustained in practice and competition.
+2,Concussion and multi-sport injury surveillance,D,13,0.664,2019,The First Decade of Web-Based Sports Injury Surveillance: Descriptive Epidemiology of Injuries in US High School Boys' Baseball (2005-2006 Through 2013-2014) and National Collegiate Athletic Association Men's Baseball (2004-2005 Through 2013-2014).
+2,Concussion and multi-sport injury surveillance,D,14,0.651,2009,Shoulder injuries among United States high school athletes during the 2005-2006 and 2006-2007 school years.
+2,Concussion and multi-sport injury surveillance,D,15,0.642,2011,Incidence of injuries in high school softball and baseball players.
+3,Pitching biomechanics: kinematics and joint kinetics,C,1,0.773,2022,Pitching Mechanics and the Relationship to Accuracy in Professional Baseball Pitchers.
+3,Pitching biomechanics: kinematics and joint kinetics,C,2,0.762,2014,Improper trunk rotation sequence is associated with increased maximal shoulder external rotation angle and shoulder joint force in high school baseball pitchers.
+3,Pitching biomechanics: kinematics and joint kinetics,C,3,0.755,2025,Lead and Back Hip Flexion-Extension Excursion: A Biomechanical Analysis in High School Baseball Pitchers.
+3,Pitching biomechanics: kinematics and joint kinetics,C,4,0.751,2026,Shoulder Strength and Total Arc Range of Motion: Associations With Upper-Extremity Joint Kinetics and Ball Velocity in Adolescent Baseball Pitchers.
+3,Pitching biomechanics: kinematics and joint kinetics,C,5,0.738,2019,The relationship of elbow alignment and kinematics on shoulder torque during the softball pitch: a biomechanical analysis of female softball pitchers.
+3,Pitching biomechanics: kinematics and joint kinetics,C,6,0.73,2025,Do Pitching Biomechanics and Shoulder and Elbow Kinetics Differ Between Pitching on 2 Specific Dirt Surface and Turf Surface Mounds?
+3,Pitching biomechanics: kinematics and joint kinetics,C,7,0.726,2018,"Effects of a six-week weighted-implement throwing program on baseball pitching velocity, kinematics, arm stress, and arm range of motion"
+3,Pitching biomechanics: kinematics and joint kinetics,C,8,0.718,2022,Machine Learning and Statistical Prediction of Pitching Arm Kinetics.
+3,Pitching biomechanics: kinematics and joint kinetics,C,9,0.702,2024,Comparison of Windup and Stretch Pitching Biomechanics in Baseball With Implications for Safety and Performance.
+3,Pitching biomechanics: kinematics and joint kinetics,C,10,0.696,2007,Relationships between throwing mechanics and shoulder distraction in collegiate baseball pitchers.
+3,Pitching biomechanics: kinematics and joint kinetics,C,11,0.693,2013,"Associations between timing in the baseball pitch and shoulder kinetics, elbow kinetics, and ball speed."
+3,Pitching biomechanics: kinematics and joint kinetics,C,12,0.683,2018,Do Mound Height and Pitching Distance Affect Youth Baseball Pitching Biomechanics?
+3,Pitching biomechanics: kinematics and joint kinetics,C,13,0.673,2021,The relationship between shoulder range of motion and elbow stress in college pitchers.
+3,Pitching biomechanics: kinematics and joint kinetics,C,14,0.672,2020,Effects of Mound Versus Flat-Ground Pitching and Distance on Arm Mechanics and Elbow Torque in High School Pitchers.
+3,Pitching biomechanics: kinematics and joint kinetics,C,15,0.672,2005,Biomechanics of youth windmill softball pitching.
+4,"Team, fan, organizational, and decision-making research",B,1,0.505,2015,Examining the use of Professional Sport Teams as a Brand Extension Strategy in Korean Professional Baseball
+4,"Team, fan, organizational, and decision-making research",B,2,0.503,2018,Performance Evaluation of Teams in Chinese Professional Baseball League
+4,"Team, fan, organizational, and decision-making research",B,3,0.487,2025,Quantifying collective attention and fan engagement: a case study of the Japanese professional baseball league
+4,"Team, fan, organizational, and decision-making research",B,4,0.479,1998,A developmental and psychoeducational approach to reducing conflict and abuse in little league and youth sports. The sport psychiatrist's role.
+4,"Team, fan, organizational, and decision-making research",B,5,0.478,2021,The Athletic Intelligence Quotient and Performance Outcomes in Professional Baseball.
+4,"Team, fan, organizational, and decision-making research",B,6,0.474,2021,When does managerial experience matter? Evidence from Major League Baseball
+4,"Team, fan, organizational, and decision-making research",B,7,0.467,2025,Turning the baseball stadium into a concert hall: a case study of the unique cheering culture in Korean professional baseball
+4,"Team, fan, organizational, and decision-making research",B,8,0.458,2020,"COVID-19 countermeasures, Major League Baseball, and the home field advantage: Simulating the 2020 season using logit regression and a neural network"
+4,"Team, fan, organizational, and decision-making research",B,9,0.448,2023,Does time matter? How major league baseball secondary market sellers make ticket pricing decisions
+4,"Team, fan, organizational, and decision-making research",B,10,0.441,2025,EEG synchronisation reveals the impact of group identity and membership duration on social cognitive bias.
+4,"Team, fan, organizational, and decision-making research",B,11,0.437,2012,Cognitive Chrono-Ethnography (CCE): a methodology for anticipating future user needs.
+4,"Team, fan, organizational, and decision-making research",B,12,0.436,2021,Sport Fans' Price Sensitivity Based on Loyalty Levels: A Case of Korean Professional Baseball League
+4,"Team, fan, organizational, and decision-making research",B,13,0.431,2024,"Effect of Green Value Cocreation on Consumer Behavior: A Professional Baseball Franchise's ""Sustainable Party"" Event."
+4,"Team, fan, organizational, and decision-making research",B,14,0.429,2023,“Save Our Spikes”: Social Media Advocacy and Fan Reaction to the End of Minor League Baseball
+4,"Team, fan, organizational, and decision-making research",B,15,0.429,2022,Major League Baseball Broadcasts and the Delineation of Traditional and Modern Fact Metrics
+5,"Throwing-related injury, pain, and impact safety",C,1,0.602,2014,Risk-Prone Pitching Activities and Injuries in Youth Baseball: Findings From a National Sample.
+5,"Throwing-related injury, pain, and impact safety",C,2,0.58,2016,"Epidemiology, Treatment, and Prevention of Lumbar Spine Injuries in Major League Baseball Players."
+5,"Throwing-related injury, pain, and impact safety",C,3,0.571,2020,RESIDENTS CASE REPORT: MUSCULOCUTANEOUS NERVE INJURY IN A COLLEGIATE BASEBALL PITCHER.
+5,"Throwing-related injury, pain, and impact safety",C,4,0.547,2024,"Fastpitch Softball Injuries: Epidemiology, Biomechanics, and Injury Prevention."
+5,"Throwing-related injury, pain, and impact safety",C,5,0.536,2007,A review of epidemiology of paediatric elbow injuries in sports.
+5,"Throwing-related injury, pain, and impact safety",C,6,0.53,2025,Short-term neurophysiological response after spinal thrust manipulation to guide return-to-throwing in collegiate pitchers: a randomized crossover pilot study.
+5,"Throwing-related injury, pain, and impact safety",C,7,0.528,2022,Primary Periphyseal Stress Injuries in Young Athletes: A Systematic Review.
+5,"Throwing-related injury, pain, and impact safety",C,8,0.519,2020,Age-related changes in muscle elasticity around the shoulder joint in young male baseball players: A prospective longitudinal study
+5,"Throwing-related injury, pain, and impact safety",C,9,0.514,2022,"Rib Fractures in Professional Baseball Pitchers: Mechanics, Epidemiology, and Management."
+5,"Throwing-related injury, pain, and impact safety",C,10,0.51,2020,Injuries and associated risk factors of the shoulder and elbow among adolescent baseball pitchers: A systematic review and meta-analysis
+5,"Throwing-related injury, pain, and impact safety",C,11,0.499,2023,Neurocognitive and Reactive Return to Play Testing Protocol in Overhead Athletes Following Upper Extremity Injury.
+5,"Throwing-related injury, pain, and impact safety",C,12,0.499,2021,The PITCH study: pitcher injuries during the first 30 days of the coronavirus disease 2019 halted Major League Baseball season.
+5,"Throwing-related injury, pain, and impact safety",C,13,0.498,2018,Youth baseball players with elbow and shoulder pain have both low back and knee pain: a cross-sectional study.
+5,"Throwing-related injury, pain, and impact safety",C,14,0.495,2026,Prevalence of Hamstring Injuries in Collegiate Softball Players and Comparison to Collegiate Baseball Players.
+5,"Throwing-related injury, pain, and impact safety",C,15,0.491,2019,Increasing Burden of Youth Baseball Elbow Injuries in US Emergency Departments
+6,"Health behavior, burnout, and psychological interventions",B,1,0.548,2015,"Mouthguard BITES (behavior, impulsivity, theory evaluation study): what drives mouthguard use among high school basketball and baseball/softball athletes."
+6,"Health behavior, burnout, and psychological interventions",B,2,0.541,2000,Spit (smokeless) tobacco use by high school baseball athletes in California.
+6,"Health behavior, burnout, and psychological interventions",B,3,0.541,2021,"Health Conditions, Substance Use, Physical Activity, and Quality of Life in Current and Former Baseball Players"
+6,"Health behavior, burnout, and psychological interventions",B,4,0.538,2005,Cluster-Randomized Controlled Trial of An Athletic Trainer-Directed Spit (Smokeless) Tobacco Intervention for Collegiate Baseball Athletes: Results After 1 Year.
+6,"Health behavior, burnout, and psychological interventions",B,5,0.522,1994,"Prevalence, patterns, and correlates of spit tobacco use in a college athlete population."
+6,"Health behavior, burnout, and psychological interventions",B,6,0.513,2003,Spit (Smokeless) Tobacco Intervention for High School Athletes: results after 1 year.
+6,"Health behavior, burnout, and psychological interventions",B,7,0.51,2024,"Retention in Junior Giants, a sport-based youth development program: what factors are associated with intentions to return?"
+6,"Health behavior, burnout, and psychological interventions",B,8,0.503,2003,Spit (Smokeless)-Tobacco Use by Baseball Players Entering the Professional Ranks.
+6,"Health behavior, burnout, and psychological interventions",B,9,0.499,2025,Factors Affecting the Health-Related Quality of Life in Taiwanese Adolescent Baseball Players: A Prospective Longitudinal Study.
+6,"Health behavior, burnout, and psychological interventions",B,10,0.483,2012,Professional baseball athletic trainers' perceptions of preparation for job-specific duties.
+6,"Health behavior, burnout, and psychological interventions",B,11,0.479,2020,Sport specialization is associated with upper-extremity overuse injury in high school baseball players
+6,"Health behavior, burnout, and psychological interventions",B,12,0.479,2022,Professional Baseball Players’ Knowledge and Attitudes about the Dental Screening Component of Spring Training Physicals
+6,"Health behavior, burnout, and psychological interventions",B,13,0.478,2020,The Relationship Between Baseball Participation and Health: A Systematic Scoping Review.
+6,"Health behavior, burnout, and psychological interventions",B,14,0.477,2021,A Nation-Wide Survey of High School Baseball Coaches' Perceptions Indicates their Arm Care Programs Play a Role in Injury Prevention.
+6,"Health behavior, burnout, and psychological interventions",B,15,0.469,2019,"Predictors of Smokeless Tobacco Susceptibility, Initiation, and Progression Over Time Among Adolescents in a Rural Cohort."

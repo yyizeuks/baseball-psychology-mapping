@@ -1,0 +1,120 @@
+{
+ "T0s0": {
+  "topic": 0,
+  "strand": 0,
+  "n": 47,
+  "kw": [
+   "motor",
+   "brain",
+   "activity",
+   "task",
+   "neural",
+   "action"
+  ],
+  "b": -4.0,
+  "p": 0.152105,
+  "median_year": 2017,
+  "pre2010": 9,
+  "share_pre2010": 0.19,
+  "p_fdr": 0.228
+ },
+ "T0s1": {
+  "topic": 0,
+  "strand": 1,
+  "n": 74,
+  "kw": [
+   "batting",
+   "swing",
+   "performance",
+   "batters",
+   "bat",
+   "hitting"
+  ],
+  "b": -3.77,
+  "p": 0.067233,
+  "median_year": 2017,
+  "pre2010": 18,
+  "share_pre2010": 0.24,
+  "p_fdr": 0.16
+ },
+ "T0s2": {
+  "topic": 0,
+  "strand": 2,
+  "n": 37,
+  "kw": [
+   "visual",
+   "vision",
+   "eye",
+   "perception",
+   "movements",
+   "acuity"
+  ],
+  "b": -2.89,
+  "p": 0.079831,
+  "median_year": 2017,
+  "pre2010": 10,
+  "share_pre2010": 0.27,
+  "p_fdr": 0.16
+ },
+ "T4s0": {
+  "topic": 4,
+  "strand": 0,
+  "n": 44,
+  "kw": [
+   "knowledge",
+   "prediction",
+   "feature",
+   "learning",
+   "decision",
+   "performance"
+  ],
+  "b": 3.98,
+  "p": 0.002543,
+  "median_year": 2020,
+  "pre2010": 9,
+  "share_pre2010": 0.2,
+  "p_fdr": 0.015
+ },
+ "T4s1": {
+  "topic": 4,
+  "strand": 1,
+  "n": 68,
+  "kw": [
+   "professional",
+   "team",
+   "leadership",
+   "teams",
+   "kbo",
+   "performance"
+  ],
+  "b": 2.04,
+  "p": 0.41992,
+  "median_year": 2019,
+  "pre2010": 17,
+  "share_pre2010": 0.25,
+  "p_fdr": 0.42
+ },
+ "T4s2": {
+  "topic": 4,
+  "strand": 2,
+  "n": 45,
+  "kw": [
+   "fans",
+   "social",
+   "fan",
+   "team",
+   "identification",
+   "emotional"
+  ],
+  "b": 1.97,
+  "p": 0.382871,
+  "median_year": 2020,
+  "pre2010": 4,
+  "share_pre2010": 0.09,
+  "p_fdr": 0.42
+ },
+ "_big_topics": [
+  0,
+  4
+ ]
+}

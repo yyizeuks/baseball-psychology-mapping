@@ -1,0 +1,90 @@
+{
+ "topics": {
+  "0": {
+   "label": "Perception–action coupling, visual abilities, and batting expertise",
+   "short": "Perception–action & batting expertise",
+   "domain": "A"
+  },
+  "4": {
+   "label": "Team, fan, organizational, and decision-making research",
+   "short": "Team, fan & organizational behavior",
+   "domain": "B"
+  },
+  "6": {
+   "label": "Health behavior, burnout, and psychological interventions",
+   "short": "Health behavior & interventions",
+   "domain": "B"
+  },
+  "3": {
+   "label": "Pitching biomechanics: kinematics and joint kinetics",
+   "short": "Pitching biomechanics",
+   "domain": "C"
+  },
+  "1": {
+   "label": "Medial elbow valgus loading and ulnar collateral ligament integrity",
+   "short": "Medial elbow loading",
+   "domain": "C"
+  },
+  "5": {
+   "label": "Throwing-related injury, pain, and impact safety",
+   "short": "Throwing injury & impact safety",
+   "domain": "C"
+  },
+  "2": {
+   "label": "Concussion and multi-sport injury surveillance",
+   "short": "Concussion & injury surveillance",
+   "domain": "D"
+  }
+ },
+ "domains": {
+  "A": {
+   "label": "Perceptual–motor expertise and batting performance",
+   "topics": [
+    0
+   ],
+   "color": "#0072B2"
+  },
+  "B": {
+   "label": "Psychosocial, organizational, and health-behavior research",
+   "topics": [
+    4,
+    6
+   ],
+   "color": "#CC79A7"
+  },
+  "C": {
+   "label": "Throwing-arm biomechanics and sports medicine",
+   "topics": [
+    3,
+    1,
+    5
+   ],
+   "color": "#D55E00"
+  },
+  "D": {
+   "label": "Injury and concussion epidemiology",
+   "topics": [
+    2
+   ],
+   "color": "#009E73"
+  }
+ },
+ "table_order": [
+  0,
+  4,
+  6,
+  3,
+  1,
+  5,
+  2
+ ],
+ "topic_colors": {
+  "0": "#0072B2",
+  "4": "#CC79A7",
+  "6": "#6E4C9E",
+  "3": "#D55E00",
+  "1": "#E69F00",
+  "5": "#B5651D",
+  "2": "#009E73"
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "n_records_with_keywords": 483,
+ "share_with_keywords": 0.72,
+ "emerging_first2018": [
+  {
+   "term": "motion capture",
+   "n": 7,
+   "first": 2019,
+   "recent": 2
+  },
+  {
+   "term": "return to play",
+   "n": 6,
+   "first": 2018,
+   "recent": 4
+  },
+  {
+   "term": "physical activity",
+   "n": 5,
+   "first": 2020,
+   "recent": 4
+  },
+  {
+   "term": "virtual reality",
+   "n": 5,
+   "first": 2022,
+   "recent": 4
+  }
+ ],
+ "rising_recent_share": [
+  {
+   "term": "return to sport",
+   "n": 9,
+   "first": 2016,
+   "recent": 7,
+   "recent_share": 0.7777777777777778
+  },
+  {
+   "term": "ulnar collateral ligament",
+   "n": 12,
+   "first": 2014,
+   "recent": 7,
+   "recent_share": 0.5833333333333334
+  },
+  {
+   "term": "exercise",
+   "n": 12,
+   "first": 2002,
+   "recent": 7,
+   "recent_share": 0.5833333333333334
+  },
+  {
+   "term": "ultrasonography",
+   "n": 11,
+   "first": 2003,
+   "recent": 6,
+   "recent_share": 0.5454545454545454
+  },
+  {
+   "term": "upper extremity",
+   "n": 11,
+   "first": 2013,
+   "recent": 5,
+   "recent_share": 0.45454545454545453
+  },
+  {
+   "term": "elbow",
+   "n": 45,
+   "first": 2008,
+   "recent": 18,
+   "recent_share": 0.4
+  },
+  {
+   "term": "injury prevention",
+   "n": 10,
+   "first": 2008,
+   "recent": 4,
+   "recent_share": 0.4
+  },
+  {
+   "term": "concussion",
+   "n": 11,
+   "first": 2007,
+   "recent": 4,
+   "recent_share": 0.36363636363636365
+  },
+  {
+   "term": "traumatic brain injury",
+   "n": 9,
+   "first": 2015,
+   "recent": 3,
+   "recent_share": 0.3333333333333333
+  },
+  {
+   "term": "arm injuries",
+   "n": 12,
+   "first": 2007,
+   "recent": 4,
+   "recent_share": 0.3333333333333333
+  },
+  {
+   "term": "japan",
+   "n": 9,
+   "first": 2017,
+   "recent": 3,
+   "recent_share": 0.3333333333333333
+  },
+  {
+   "term": "cross-sectional studies",
+   "n": 20,
+   "first": 1994,
+   "recent": 6,
+   "recent_share": 0.3
+  },
+  {
+   "term": "athletic performance",
+   "n": 47,
+   "first": 2008,
+   "recent": 13,
+   "recent_share": 0.2765957446808511
+  },
+  {
+   "term": "learning",
+   "n": 11,
+   "first": 1998,
+   "recent": 3,
+   "recent_share": 0.2727272727272727
+  },
+  {
+   "term": "skeletal",
+   "n": 11,
+   "first": 1995,
+   "recent": 3,
+   "recent_share": 0.2727272727272727
+  },
+  {
+   "term": "sex factors",
+   "n": 11,
+   "first": 1994,
+   "recent": 3,
+   "recent_share": 0.2727272727272727
+  },
+  {
+   "term": "muscle",
+   "n": 11,
+   "first": 1995,
+   "recent": 3,
+   "recent_share": 0.2727272727272727
+  },
+  {
+   "term": "sports medicine",
+   "n": 8,
+   "first": 2014,
+   "recent": 2,
+   "recent_share": 0.25
+  },
+  {
+   "term": "magnetic resonance imaging",
+   "n": 12,
+   "first": 2006,
+   "recent": 3,
+   "recent_share": 0.25
+  },
+  {
+   "term": "prospective studies",
+   "n": 12,
+   "first": 1994,
+   "recent": 3,
+   "recent_share": 0.25
+  },
+  {
+   "term": "pitching",
+   "n": 24,
+   "first": 2007,
+   "recent": 6,
+   "recent_share": 0.25
+  },
+  {
+   "term": "injury",
+   "n": 12,
+   "first": 2007,
+   "recent": 3,
+   "recent_share": 0.25
+  },
+  {
+   "term": "athletes",
+   "n": 68,
+   "first": 2011,
+   "recent": 17,
+   "recent_share": 0.25
+  },
+  {
+   "term": "forearm",
+   "n": 8,
+   "first": 2012,
+   "recent": 2,
+   "recent_share": 0.25
+  },
+  {
+   "term": "seasons",
+   "n": 8,
+   "first": 1994,
+   "recent": 2,
+   "recent_share": 0.25
+  }
+ ]
+}

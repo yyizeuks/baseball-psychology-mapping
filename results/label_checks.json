@@ -1,0 +1,169 @@
+{
+ "mentions": {
+  "0": {
+   "korea": 0,
+   "japan": 1,
+   "taiwan": 1
+  },
+  "1": {
+   "korea": 0,
+   "japan": 3,
+   "taiwan": 0
+  },
+  "2": {
+   "korea": 0,
+   "japan": 1,
+   "taiwan": 0
+  },
+  "3": {
+   "korea": 0,
+   "japan": 0,
+   "taiwan": 0
+  },
+  "4": {
+   "korea": 15,
+   "japan": 9,
+   "taiwan": 7
+  },
+  "5": {
+   "korea": 0,
+   "japan": 9,
+   "taiwan": 0
+  },
+  "6": {
+   "korea": 3,
+   "japan": 10,
+   "taiwan": 5
+  }
+ },
+ "japan_aff": {
+  "0": [
+   28,
+   112
+  ],
+  "1": [
+   24,
+   37
+  ],
+  "2": [
+   2,
+   45
+  ],
+  "3": [
+   6,
+   56
+  ],
+  "4": [
+   7,
+   51
+  ],
+  "5": [
+   7,
+   65
+  ],
+  "6": [
+   8,
+   47
+  ]
+ },
+ "era_counts": {
+  "0": [
+   9,
+   28,
+   24,
+   40,
+   57
+  ],
+  "1": [
+   1,
+   4,
+   3,
+   7,
+   23
+  ],
+  "2": [
+   1,
+   12,
+   9,
+   21,
+   17
+  ],
+  "3": [
+   0,
+   11,
+   5,
+   18,
+   37
+  ],
+  "4": [
+   13,
+   17,
+   17,
+   28,
+   82
+  ],
+  "5": [
+   6,
+   12,
+   12,
+   23,
+   49
+  ],
+  "6": [
+   10,
+   11,
+   5,
+   14,
+   45
+  ]
+ },
+ "top_cited_by_domain": {
+  "A": 1,
+  "B": 2,
+  "C": 8,
+  "D": 9
+ },
+ "centrality": {
+  "title_mention_share": 0.729,
+  "median_body_mentions": 4.0,
+  "n_title_mention": 489,
+  "n_title0_body2": 84,
+  "n_title0_body_ge3": 98,
+  "by_topic_title_share": {
+   "0": 0.66,
+   "1": 0.89,
+   "2": 0.4,
+   "3": 0.94,
+   "4": 0.81,
+   "5": 0.71,
+   "6": 0.71
+  },
+  "by_topic_title0_body2": {
+   "0": 17,
+   "1": 1,
+   "2": 24,
+   "3": 1,
+   "4": 15,
+   "5": 13,
+   "6": 13
+  }
+ },
+ "abstract_missing": {
+  "n": 222,
+  "title_with_psych_term": 215,
+  "title_with_baseball_term": 221,
+  "title_with_both": 215
+ },
+ "topicality": {
+  "n": 268,
+  "single_mention": 254,
+  "other_sport_share": 0.4552,
+  "perception_action_by_era": {
+   "1990-2009": 9,
+   "2010-2014": 12,
+   "2015-2019": 21,
+   "2020-2026": 29
+  },
+  "perception_action_total": 71
+ }
+}

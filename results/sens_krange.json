@@ -1,0 +1,2845 @@
+{
+ "primary_K": 7,
+ "per_K": {
+  "5": {
+   "ari_vs_primary": 0.568,
+   "topics": {
+    "0": {
+     "matched_topic": 3,
+     "cosine": 0.993,
+     "share_of_matched_from_primary": 0.866,
+     "b_per_decade": -8.16,
+     "p_fdr": 0.085,
+     "cls": "negative (n.s.)",
+     "n": 179,
+     "keywords": [
+      "batting",
+      "performance",
+      "visual",
+      "motor",
+      "swing",
+      "batters"
+     ]
+    },
+    "1": {
+     "matched_topic": 1,
+     "cosine": 0.997,
+     "share_of_matched_from_primary": 0.947,
+     "b_per_decade": 3.76,
+     "p_fdr": 0.085,
+     "cls": "positive (n.s.)",
+     "n": 38,
+     "keywords": [
+      "elbow",
+      "joint",
+      "valgus",
+      "stress",
+      "ucl",
+      "medial"
+     ]
+    },
+    "2": {
+     "matched_topic": 2,
+     "cosine": 0.933,
+     "share_of_matched_from_primary": 0.517,
+     "b_per_decade": -0.86,
+     "p_fdr": 0.797,
+     "cls": "negative (n.s.)",
+     "n": 116,
+     "keywords": [
+      "injuries",
+      "injury",
+      "concussion",
+      "softball",
+      "rates",
+      "school"
+     ]
+    },
+    "3": {
+     "matched_topic": 4,
+     "cosine": 0.975,
+     "share_of_matched_from_primary": 0.683,
+     "b_per_decade": -3.68,
+     "p_fdr": 0.364,
+     "cls": "negative (n.s.)",
+     "n": 104,
+     "keywords": [
+      "elbow",
+      "shoulder",
+      "pitchers",
+      "pitching",
+      "throwing",
+      "arm"
+     ]
+    },
+    "4": {
+     "matched_topic": 0,
+     "cosine": 0.918,
+     "share_of_matched_from_primary": 0.59,
+     "b_per_decade": 8.94,
+     "p_fdr": 0.085,
+     "cls": "positive (n.s.)",
+     "n": 234,
+     "keywords": [
+      "team",
+      "professional",
+      "social",
+      "psychological",
+      "fans",
+      "use"
+     ]
+    },
+    "5": {
+     "matched_topic": 2,
+     "cosine": 0.784,
+     "share_of_matched_from_primary": 0.405,
+     "b_per_decade": -0.86,
+     "p_fdr": 0.797,
+     "cls": "negative (n.s.)",
+     "n": 116,
+     "keywords": [
+      "injuries",
+      "injury",
+      "concussion",
+      "softball",
+      "rates",
+      "school"
+     ]
+    },
+    "6": {
+     "matched_topic": 0,
+     "cosine": 0.833,
+     "share_of_matched_from_primary": 0.316,
+     "b_per_decade": 8.94,
+     "p_fdr": 0.085,
+     "cls": "positive (n.s.)",
+     "n": 234,
+     "keywords": [
+      "team",
+      "professional",
+      "social",
+      "psychological",
+      "fans",
+      "use"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 234,
+     "b": 8.94,
+     "p_fdr": 0.085,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "team",
+      "professional",
+      "social",
+      "psychological",
+      "fans"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 38,
+     "b": 3.76,
+     "p_fdr": 0.085,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "elbow",
+      "joint",
+      "valgus",
+      "stress",
+      "ucl"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 116,
+     "b": -0.86,
+     "p_fdr": 0.797,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "injuries",
+      "injury",
+      "concussion",
+      "softball",
+      "rates"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 179,
+     "b": -8.16,
+     "p_fdr": 0.085,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "batting",
+      "performance",
+      "visual",
+      "motor",
+      "swing"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 104,
+     "b": -3.68,
+     "p_fdr": 0.364,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "shoulder",
+      "pitchers",
+      "pitching",
+      "throwing"
+     ]
+    }
+   ],
+   "domain_agreement": 0.848,
+   "domain_sizes": {
+    "A": 179,
+    "B": 234,
+    "C": 142,
+    "D": 116
+   },
+   "domain_trends": {
+    "A": [
+     -8.16,
+     0.0756
+    ],
+    "B": [
+     8.94,
+     0.0756
+    ],
+    "C": [
+     0.08,
+     0.9817
+    ],
+    "D": [
+     -0.86,
+     0.9817
+    ]
+   }
+  },
+  "6": {
+   "ari_vs_primary": 0.656,
+   "topics": {
+    "0": {
+     "matched_topic": 5,
+     "cosine": 0.996,
+     "share_of_matched_from_primary": 0.947,
+     "b_per_decade": -10.34,
+     "p_fdr": 0.03,
+     "cls": "Cold",
+     "n": 150,
+     "keywords": [
+      "batting",
+      "performance",
+      "visual",
+      "swing",
+      "batters",
+      "motor"
+     ]
+    },
+    "1": {
+     "matched_topic": 3,
+     "cosine": 0.997,
+     "share_of_matched_from_primary": 0.923,
+     "b_per_decade": 4.21,
+     "p_fdr": 0.055,
+     "cls": "positive (n.s.)",
+     "n": 39,
+     "keywords": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl",
+      "medial"
+     ]
+    },
+    "2": {
+     "matched_topic": 1,
+     "cosine": 0.965,
+     "share_of_matched_from_primary": 0.659,
+     "b_per_decade": -2.86,
+     "p_fdr": 0.349,
+     "cls": "negative (n.s.)",
+     "n": 91,
+     "keywords": [
+      "injuries",
+      "injury",
+      "concussion",
+      "incidence",
+      "rates",
+      "softball"
+     ]
+    },
+    "3": {
+     "matched_topic": 4,
+     "cosine": 0.976,
+     "share_of_matched_from_primary": 0.667,
+     "b_per_decade": -3.85,
+     "p_fdr": 0.349,
+     "cls": "negative (n.s.)",
+     "n": 105,
+     "keywords": [
+      "shoulder",
+      "elbow",
+      "pitchers",
+      "pitching",
+      "throwing",
+      "arm"
+     ]
+    },
+    "4": {
+     "matched_topic": 2,
+     "cosine": 0.989,
+     "share_of_matched_from_primary": 0.971,
+     "b_per_decade": 5.94,
+     "p_fdr": 0.189,
+     "cls": "positive (n.s.)",
+     "n": 138,
+     "keywords": [
+      "team",
+      "fans",
+      "professional",
+      "teams",
+      "social",
+      "performance"
+     ]
+    },
+    "5": {
+     "matched_topic": 0,
+     "cosine": 0.72,
+     "share_of_matched_from_primary": 0.257,
+     "b_per_decade": 6.89,
+     "p_fdr": 0.069,
+     "cls": "positive (n.s.)",
+     "n": 148,
+     "keywords": [
+      "psychological",
+      "training",
+      "burnout",
+      "use",
+      "tobacco",
+      "health"
+     ]
+    },
+    "6": {
+     "matched_topic": 0,
+     "cosine": 0.934,
+     "share_of_matched_from_primary": 0.547,
+     "b_per_decade": 6.89,
+     "p_fdr": 0.069,
+     "cls": "positive (n.s.)",
+     "n": 148,
+     "keywords": [
+      "psychological",
+      "training",
+      "burnout",
+      "use",
+      "tobacco",
+      "health"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 148,
+     "b": 6.89,
+     "p_fdr": 0.069,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "psychological",
+      "training",
+      "burnout",
+      "use",
+      "tobacco"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 91,
+     "b": -2.86,
+     "p_fdr": 0.349,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "injuries",
+      "injury",
+      "concussion",
+      "incidence",
+      "rates"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 138,
+     "b": 5.94,
+     "p_fdr": 0.189,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "team",
+      "fans",
+      "professional",
+      "teams",
+      "social"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 39,
+     "b": 4.21,
+     "p_fdr": 0.055,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 105,
+     "b": -3.85,
+     "p_fdr": 0.349,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "shoulder",
+      "elbow",
+      "pitchers",
+      "pitching",
+      "throwing"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 150,
+     "b": -10.34,
+     "p_fdr": 0.03,
+     "cls": "Cold",
+     "kw": [
+      "batting",
+      "performance",
+      "visual",
+      "swing",
+      "batters"
+     ]
+    }
+   ],
+   "domain_agreement": 0.858,
+   "domain_sizes": {
+    "A": 150,
+    "B": 286,
+    "C": 144,
+    "D": 91
+   },
+   "domain_trends": {
+    "A": [
+     -10.34,
+     0.0201
+    ],
+    "B": [
+     12.83,
+     0.0322
+    ],
+    "C": [
+     0.36,
+     0.9243
+    ],
+    "D": [
+     -2.86,
+     0.4647
+    ]
+   }
+  },
+  "7": {
+   "ari_vs_primary": 1.0,
+   "topics": {
+    "0": {
+     "matched_topic": 0,
+     "cosine": 1.0,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -10.67,
+     "p_fdr": 0.017,
+     "cls": "Cold",
+     "n": 158,
+     "keywords": [
+      "batting",
+      "performance",
+      "visual",
+      "swing",
+      "motor",
+      "batters"
+     ]
+    },
+    "1": {
+     "matched_topic": 1,
+     "cosine": 1.0,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 3.47,
+     "p_fdr": 0.09,
+     "cls": "positive (n.s.)",
+     "n": 38,
+     "keywords": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "medial",
+      "ucl"
+     ]
+    },
+    "2": {
+     "matched_topic": 2,
+     "cosine": 1.0,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -5.67,
+     "p_fdr": 0.106,
+     "cls": "negative (n.s.)",
+     "n": 60,
+     "keywords": [
+      "concussion",
+      "injuries",
+      "injury",
+      "concussions",
+      "rates",
+      "aes"
+     ]
+    },
+    "3": {
+     "matched_topic": 3,
+     "cosine": 1.0,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -1.75,
+     "p_fdr": 0.581,
+     "cls": "negative (n.s.)",
+     "n": 71,
+     "keywords": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "pitchers",
+      "torque",
+      "velocity"
+     ]
+    },
+    "4": {
+     "matched_topic": 4,
+     "cosine": 1.0,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 7.99,
+     "p_fdr": 0.09,
+     "cls": "positive (n.s.)",
+     "n": 157,
+     "keywords": [
+      "team",
+      "professional",
+      "fans",
+      "performance",
+      "teams",
+      "social"
+     ]
+    },
+    "5": {
+     "matched_topic": 5,
+     "cosine": 1.0,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 3.08,
+     "p_fdr": 0.108,
+     "cls": "positive (n.s.)",
+     "n": 102,
+     "keywords": [
+      "pain",
+      "injuries",
+      "injury",
+      "shoulder",
+      "pitchers",
+      "elbow"
+     ]
+    },
+    "6": {
+     "matched_topic": 6,
+     "cosine": 1.0,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 3.56,
+     "p_fdr": 0.132,
+     "cls": "positive (n.s.)",
+     "n": 85,
+     "keywords": [
+      "burnout",
+      "tobacco",
+      "use",
+      "psychological",
+      "training",
+      "health"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 158,
+     "b": -10.67,
+     "p_fdr": 0.017,
+     "cls": "Cold",
+     "kw": [
+      "batting",
+      "performance",
+      "visual",
+      "swing",
+      "motor"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 38,
+     "b": 3.47,
+     "p_fdr": 0.09,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "medial"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 60,
+     "b": -5.67,
+     "p_fdr": 0.106,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "concussion",
+      "injuries",
+      "injury",
+      "concussions",
+      "rates"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 71,
+     "b": -1.75,
+     "p_fdr": 0.581,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "pitchers",
+      "torque"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 157,
+     "b": 7.99,
+     "p_fdr": 0.09,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "team",
+      "professional",
+      "fans",
+      "performance",
+      "teams"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 102,
+     "b": 3.08,
+     "p_fdr": 0.108,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "pain",
+      "injuries",
+      "injury",
+      "shoulder",
+      "pitchers"
+     ]
+    },
+    {
+     "t": 6,
+     "n": 85,
+     "b": 3.56,
+     "p_fdr": 0.132,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "burnout",
+      "tobacco",
+      "use",
+      "psychological",
+      "training"
+     ]
+    }
+   ],
+   "domain_agreement": 1.0,
+   "domain_sizes": {
+    "A": 158,
+    "B": 242,
+    "C": 211,
+    "D": 60
+   },
+   "domain_trends": {
+    "A": [
+     -10.67,
+     0.0097
+    ],
+    "B": [
+     11.55,
+     0.0189
+    ],
+    "C": [
+     4.79,
+     0.1201
+    ],
+    "D": [
+     -5.67,
+     0.0806
+    ]
+   }
+  },
+  "8": {
+   "ari_vs_primary": 0.533,
+   "topics": {
+    "0": {
+     "matched_topic": 4,
+     "cosine": 0.944,
+     "share_of_matched_from_primary": 0.887,
+     "b_per_decade": -6.13,
+     "p_fdr": 0.038,
+     "cls": "Cold",
+     "n": 106,
+     "keywords": [
+      "batting",
+      "swing",
+      "visual",
+      "performance",
+      "batters",
+      "ball"
+     ]
+    },
+    "1": {
+     "matched_topic": 7,
+     "cosine": 0.99,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 5.06,
+     "p_fdr": 0.002,
+     "cls": "Hot",
+     "n": 32,
+     "keywords": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl",
+      "medial"
+     ]
+    },
+    "2": {
+     "matched_topic": 6,
+     "cosine": 0.878,
+     "share_of_matched_from_primary": 0.933,
+     "b_per_decade": -5.52,
+     "p_fdr": 0.037,
+     "cls": "Cold",
+     "n": 30,
+     "keywords": [
+      "injuries",
+      "injury",
+      "aes",
+      "men",
+      "women",
+      "rates"
+     ]
+    },
+    "3": {
+     "matched_topic": 1,
+     "cosine": 0.986,
+     "share_of_matched_from_primary": 0.732,
+     "b_per_decade": -6.41,
+     "p_fdr": 0.14,
+     "cls": "negative (n.s.)",
+     "n": 97,
+     "keywords": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "pitchers",
+      "throwing",
+      "torque"
+     ]
+    },
+    "4": {
+     "matched_topic": 5,
+     "cosine": 0.965,
+     "share_of_matched_from_primary": 0.966,
+     "b_per_decade": 5.54,
+     "p_fdr": 0.125,
+     "cls": "positive (n.s.)",
+     "n": 116,
+     "keywords": [
+      "team",
+      "fans",
+      "professional",
+      "social",
+      "teams",
+      "home"
+     ]
+    },
+    "5": {
+     "matched_topic": 0,
+     "cosine": 0.869,
+     "share_of_matched_from_primary": 0.616,
+     "b_per_decade": 1.63,
+     "p_fdr": 0.52,
+     "cls": "positive (n.s.)",
+     "n": 99,
+     "keywords": [
+      "concussion",
+      "injuries",
+      "injury",
+      "impact",
+      "head",
+      "cardiac"
+     ]
+    },
+    "6": {
+     "matched_topic": 3,
+     "cosine": 0.958,
+     "share_of_matched_from_primary": 0.675,
+     "b_per_decade": 7.85,
+     "p_fdr": 0.02,
+     "cls": "Hot",
+     "n": 117,
+     "keywords": [
+      "pain",
+      "psychological",
+      "burnout",
+      "tobacco",
+      "use",
+      "anxiety"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 99,
+     "b": 1.63,
+     "p_fdr": 0.52,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "concussion",
+      "injuries",
+      "injury",
+      "impact",
+      "head"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 97,
+     "b": -6.41,
+     "p_fdr": 0.14,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "pitchers",
+      "throwing"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 74,
+     "b": -2.0,
+     "p_fdr": 0.407,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "neural",
+      "performance",
+      "motor",
+      "prediction",
+      "cognitive"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 117,
+     "b": 7.85,
+     "p_fdr": 0.02,
+     "cls": "Hot",
+     "kw": [
+      "pain",
+      "psychological",
+      "burnout",
+      "tobacco",
+      "use"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 106,
+     "b": -6.13,
+     "p_fdr": 0.038,
+     "cls": "Cold",
+     "kw": [
+      "batting",
+      "swing",
+      "visual",
+      "performance",
+      "batters"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 116,
+     "b": 5.54,
+     "p_fdr": 0.125,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "team",
+      "fans",
+      "professional",
+      "social",
+      "teams"
+     ]
+    },
+    {
+     "t": 6,
+     "n": 30,
+     "b": -5.52,
+     "p_fdr": 0.037,
+     "cls": "Cold",
+     "kw": [
+      "injuries",
+      "injury",
+      "aes",
+      "men",
+      "women"
+     ]
+    },
+    {
+     "t": 7,
+     "n": 32,
+     "b": 5.06,
+     "p_fdr": 0.002,
+     "cls": "Hot",
+     "kw": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl"
+     ]
+    }
+   ],
+   "domain_agreement": 0.841,
+   "domain_sizes": {
+    "A": 180,
+    "B": 233,
+    "C": 228,
+    "D": 30
+   },
+   "domain_trends": {
+    "A": [
+     -8.14,
+     0.0219
+    ],
+    "B": [
+     13.38,
+     0.0147
+    ],
+    "C": [
+     0.28,
+     0.953
+    ],
+    "D": [
+     -5.52,
+     0.0219
+    ]
+   }
+  },
+  "9": {
+   "ari_vs_primary": 0.535,
+   "topics": {
+    "0": {
+     "matched_topic": 1,
+     "cosine": 0.959,
+     "share_of_matched_from_primary": 0.882,
+     "b_per_decade": -7.42,
+     "p_fdr": 0.116,
+     "cls": "negative (n.s.)",
+     "n": 119,
+     "keywords": [
+      "batters",
+      "motor",
+      "visual",
+      "ball",
+      "swing",
+      "neural"
+     ]
+    },
+    "1": {
+     "matched_topic": 4,
+     "cosine": 0.992,
+     "share_of_matched_from_primary": 0.943,
+     "b_per_decade": 4.38,
+     "p_fdr": 0.11,
+     "cls": "positive (n.s.)",
+     "n": 35,
+     "keywords": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl",
+      "medial"
+     ]
+    },
+    "2": {
+     "matched_topic": 8,
+     "cosine": 0.869,
+     "share_of_matched_from_primary": 0.958,
+     "b_per_decade": -4.88,
+     "p_fdr": 0.116,
+     "cls": "negative (n.s.)",
+     "n": 24,
+     "keywords": [
+      "injuries",
+      "injury",
+      "aes",
+      "rates",
+      "men",
+      "women"
+     ]
+    },
+    "3": {
+     "matched_topic": 2,
+     "cosine": 0.995,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -0.02,
+     "p_fdr": 0.995,
+     "cls": "negative (n.s.)",
+     "n": 62,
+     "keywords": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "torque",
+      "pitchers",
+      "velocity"
+     ]
+    },
+    "4": {
+     "matched_topic": 3,
+     "cosine": 0.946,
+     "share_of_matched_from_primary": 0.98,
+     "b_per_decade": 4.71,
+     "p_fdr": 0.173,
+     "cls": "positive (n.s.)",
+     "n": 100,
+     "keywords": [
+      "fans",
+      "team",
+      "professional",
+      "social",
+      "teams",
+      "korean"
+     ]
+    },
+    "5": {
+     "matched_topic": 6,
+     "cosine": 0.938,
+     "share_of_matched_from_primary": 0.788,
+     "b_per_decade": 0.37,
+     "p_fdr": 0.954,
+     "cls": "positive (n.s.)",
+     "n": 85,
+     "keywords": [
+      "pain",
+      "shoulder",
+      "elbow",
+      "injuries",
+      "throwing",
+      "injury"
+     ]
+    },
+    "6": {
+     "matched_topic": 0,
+     "cosine": 0.961,
+     "share_of_matched_from_primary": 0.815,
+     "b_per_decade": 3.07,
+     "p_fdr": 0.173,
+     "cls": "positive (n.s.)",
+     "n": 81,
+     "keywords": [
+      "burnout",
+      "tobacco",
+      "use",
+      "motivation",
+      "psychological",
+      "health"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 81,
+     "b": 3.07,
+     "p_fdr": 0.173,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "burnout",
+      "tobacco",
+      "use",
+      "motivation",
+      "psychological"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 119,
+     "b": -7.42,
+     "p_fdr": 0.116,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "batters",
+      "motor",
+      "visual",
+      "ball",
+      "swing"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 62,
+     "b": -0.02,
+     "p_fdr": 0.995,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "torque",
+      "pitchers"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 100,
+     "b": 4.71,
+     "p_fdr": 0.173,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "fans",
+      "team",
+      "professional",
+      "social",
+      "teams"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 35,
+     "b": 4.38,
+     "p_fdr": 0.11,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 63,
+     "b": -3.21,
+     "p_fdr": 0.173,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "concussion",
+      "injury",
+      "head",
+      "impact",
+      "cardiac"
+     ]
+    },
+    {
+     "t": 6,
+     "n": 85,
+     "b": 0.37,
+     "p_fdr": 0.954,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "pain",
+      "shoulder",
+      "elbow",
+      "injuries",
+      "throwing"
+     ]
+    },
+    {
+     "t": 7,
+     "n": 102,
+     "b": 2.99,
+     "p_fdr": 0.334,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "performance",
+      "batting",
+      "training",
+      "anxiety",
+      "cognitive"
+     ]
+    },
+    {
+     "t": 8,
+     "n": 24,
+     "b": -4.88,
+     "p_fdr": 0.116,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "injuries",
+      "injury",
+      "aes",
+      "rates",
+      "men"
+     ]
+    }
+   ],
+   "domain_agreement": 0.854,
+   "domain_sizes": {
+    "A": 221,
+    "B": 181,
+    "C": 182,
+    "D": 87
+   },
+   "domain_trends": {
+    "A": [
+     -4.43,
+     0.1327
+    ],
+    "B": [
+     7.79,
+     0.0454
+    ],
+    "C": [
+     4.73,
+     0.1869
+    ],
+    "D": [
+     -8.09,
+     0.0255
+    ]
+   }
+  },
+  "10": {
+   "ari_vs_primary": 0.474,
+   "topics": {
+    "0": {
+     "matched_topic": 5,
+     "cosine": 0.921,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -7.25,
+     "p_fdr": 0.055,
+     "cls": "negative (n.s.)",
+     "n": 71,
+     "keywords": [
+      "swing",
+      "batting",
+      "batters",
+      "ball",
+      "visual",
+      "bat"
+     ]
+    },
+    "1": {
+     "matched_topic": 9,
+     "cosine": 0.997,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 3.85,
+     "p_fdr": 0.055,
+     "cls": "positive (n.s.)",
+     "n": 34,
+     "keywords": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl",
+      "medial"
+     ]
+    },
+    "2": {
+     "matched_topic": 6,
+     "cosine": 0.888,
+     "share_of_matched_from_primary": 0.966,
+     "b_per_decade": -4.72,
+     "p_fdr": 0.055,
+     "cls": "negative (n.s.)",
+     "n": 29,
+     "keywords": [
+      "injuries",
+      "injury",
+      "aes",
+      "incidence",
+      "rates",
+      "men"
+     ]
+    },
+    "3": {
+     "matched_topic": 0,
+     "cosine": 0.995,
+     "share_of_matched_from_primary": 0.897,
+     "b_per_decade": -4.24,
+     "p_fdr": 0.229,
+     "cls": "negative (n.s.)",
+     "n": 78,
+     "keywords": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "pitchers",
+      "torque",
+      "rotation"
+     ]
+    },
+    "4": {
+     "matched_topic": 4,
+     "cosine": 0.925,
+     "share_of_matched_from_primary": 0.699,
+     "b_per_decade": 8.04,
+     "p_fdr": 0.055,
+     "cls": "positive (n.s.)",
+     "n": 153,
+     "keywords": [
+      "social",
+      "team",
+      "professional",
+      "burnout",
+      "fans",
+      "identity"
+     ]
+    },
+    "5": {
+     "matched_topic": 1,
+     "cosine": 0.954,
+     "share_of_matched_from_primary": 0.815,
+     "b_per_decade": 8.19,
+     "p_fdr": 0.017,
+     "cls": "Hot",
+     "n": 92,
+     "keywords": [
+      "pain",
+      "injuries",
+      "shoulder",
+      "injury",
+      "elbow",
+      "pitchers"
+     ]
+    },
+    "6": {
+     "matched_topic": 4,
+     "cosine": 0.746,
+     "share_of_matched_from_primary": 0.288,
+     "b_per_decade": 8.04,
+     "p_fdr": 0.055,
+     "cls": "positive (n.s.)",
+     "n": 153,
+     "keywords": [
+      "social",
+      "team",
+      "professional",
+      "burnout",
+      "fans",
+      "identity"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 78,
+     "b": -4.24,
+     "p_fdr": 0.229,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "pitchers",
+      "torque"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 92,
+     "b": 8.19,
+     "p_fdr": 0.017,
+     "cls": "Hot",
+     "kw": [
+      "pain",
+      "injuries",
+      "shoulder",
+      "injury",
+      "elbow"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 53,
+     "b": -3.74,
+     "p_fdr": 0.091,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "concussion",
+      "head",
+      "impact",
+      "injury",
+      "cardiac"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 101,
+     "b": 1.58,
+     "p_fdr": 0.573,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "performance",
+      "batting",
+      "training",
+      "skills",
+      "prediction"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 153,
+     "b": 8.04,
+     "p_fdr": 0.055,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "social",
+      "team",
+      "professional",
+      "burnout",
+      "fans"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 71,
+     "b": -7.25,
+     "p_fdr": 0.055,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "swing",
+      "batting",
+      "batters",
+      "ball",
+      "visual"
+     ]
+    },
+    {
+     "t": 6,
+     "n": 29,
+     "b": -4.72,
+     "p_fdr": 0.055,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "injuries",
+      "injury",
+      "aes",
+      "incidence",
+      "rates"
+     ]
+    },
+    {
+     "t": 7,
+     "n": 47,
+     "b": 0.08,
+     "p_fdr": 0.969,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "motor",
+      "neural",
+      "brain",
+      "activity",
+      "cortex"
+     ]
+    },
+    {
+     "t": 8,
+     "n": 13,
+     "b": -1.8,
+     "p_fdr": 0.217,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "tobacco",
+      "use",
+      "users",
+      "smokeless",
+      "health"
+     ]
+    },
+    {
+     "t": 9,
+     "n": 34,
+     "b": 3.85,
+     "p_fdr": 0.055,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl"
+     ]
+    }
+   ],
+   "domain_agreement": 0.872,
+   "domain_sizes": {
+    "A": 118,
+    "B": 267,
+    "C": 204,
+    "D": 82
+   },
+   "domain_trends": {
+    "A": [
+     -7.17,
+     0.069
+    ],
+    "B": [
+     7.82,
+     0.0674
+    ],
+    "C": [
+     7.81,
+     0.0674
+    ],
+    "D": [
+     -8.46,
+     0.0123
+    ]
+   }
+  },
+  "11": {
+   "ari_vs_primary": 0.537,
+   "topics": {
+    "0": {
+     "matched_topic": 3,
+     "cosine": 0.97,
+     "share_of_matched_from_primary": 0.991,
+     "b_per_decade": -9.89,
+     "p_fdr": 0.008,
+     "cls": "Cold",
+     "n": 110,
+     "keywords": [
+      "swing",
+      "batting",
+      "motor",
+      "batters",
+      "performance",
+      "bat"
+     ]
+    },
+    "1": {
+     "matched_topic": 8,
+     "cosine": 0.995,
+     "share_of_matched_from_primary": 0.971,
+     "b_per_decade": 3.65,
+     "p_fdr": 0.083,
+     "cls": "positive (n.s.)",
+     "n": 35,
+     "keywords": [
+      "elbow",
+      "joint",
+      "valgus",
+      "stress",
+      "ucl",
+      "medial"
+     ]
+    },
+    "2": {
+     "matched_topic": 5,
+     "cosine": 0.885,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -4.97,
+     "p_fdr": 0.065,
+     "cls": "negative (n.s.)",
+     "n": 27,
+     "keywords": [
+      "injuries",
+      "injury",
+      "aes",
+      "rates",
+      "incidence",
+      "men"
+     ]
+    },
+    "3": {
+     "matched_topic": 1,
+     "cosine": 0.996,
+     "share_of_matched_from_primary": 0.909,
+     "b_per_decade": -4.12,
+     "p_fdr": 0.35,
+     "cls": "negative (n.s.)",
+     "n": 77,
+     "keywords": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "pitchers",
+      "torque",
+      "rotation"
+     ]
+    },
+    "4": {
+     "matched_topic": 4,
+     "cosine": 0.884,
+     "share_of_matched_from_primary": 0.884,
+     "b_per_decade": 2.34,
+     "p_fdr": 0.361,
+     "cls": "positive (n.s.)",
+     "n": 86,
+     "keywords": [
+      "team",
+      "leadership",
+      "home",
+      "teams",
+      "performance",
+      "knowledge"
+     ]
+    },
+    "5": {
+     "matched_topic": 2,
+     "cosine": 0.927,
+     "share_of_matched_from_primary": 0.859,
+     "b_per_decade": 6.23,
+     "p_fdr": 0.013,
+     "cls": "Hot",
+     "n": 64,
+     "keywords": [
+      "pain",
+      "injuries",
+      "injury",
+      "shoulder",
+      "elbow",
+      "pitchers"
+     ]
+    },
+    "6": {
+     "matched_topic": 6,
+     "cosine": 0.941,
+     "share_of_matched_from_primary": 0.641,
+     "b_per_decade": 5.63,
+     "p_fdr": 0.065,
+     "cls": "positive (n.s.)",
+     "n": 103,
+     "keywords": [
+      "burnout",
+      "psychological",
+      "tobacco",
+      "professional",
+      "use",
+      "health"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 54,
+     "b": 0.3,
+     "p_fdr": 0.898,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "chest",
+      "heart",
+      "pressure",
+      "training",
+      "impact"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 77,
+     "b": -4.12,
+     "p_fdr": 0.35,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "pitchers",
+      "torque"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 64,
+     "b": 6.23,
+     "p_fdr": 0.013,
+     "cls": "Hot",
+     "kw": [
+      "pain",
+      "injuries",
+      "injury",
+      "shoulder",
+      "elbow"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 110,
+     "b": -9.89,
+     "p_fdr": 0.008,
+     "cls": "Cold",
+     "kw": [
+      "swing",
+      "batting",
+      "motor",
+      "batters",
+      "performance"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 86,
+     "b": 2.34,
+     "p_fdr": 0.361,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "team",
+      "leadership",
+      "home",
+      "teams",
+      "performance"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 27,
+     "b": -4.97,
+     "p_fdr": 0.065,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "injuries",
+      "injury",
+      "aes",
+      "rates",
+      "incidence"
+     ]
+    },
+    {
+     "t": 6,
+     "n": 103,
+     "b": 5.63,
+     "p_fdr": 0.065,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "burnout",
+      "psychological",
+      "tobacco",
+      "professional",
+      "use"
+     ]
+    },
+    {
+     "t": 7,
+     "n": 32,
+     "b": -0.5,
+     "p_fdr": 0.868,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "concussion",
+      "head",
+      "concussions",
+      "injury",
+      "brain"
+     ]
+    },
+    {
+     "t": 8,
+     "n": 35,
+     "b": 3.65,
+     "p_fdr": 0.083,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "elbow",
+      "joint",
+      "valgus",
+      "stress",
+      "ucl"
+     ]
+    },
+    {
+     "t": 9,
+     "n": 51,
+     "b": 2.1,
+     "p_fdr": 0.487,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "fans",
+      "social",
+      "korean",
+      "fan",
+      "professional"
+     ]
+    },
+    {
+     "t": 10,
+     "n": 32,
+     "b": -0.77,
+     "p_fdr": 0.828,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "visual",
+      "vision",
+      "eye",
+      "movements",
+      "acuity"
+     ]
+    }
+   ],
+   "domain_agreement": 0.928,
+   "domain_sizes": {
+    "A": 142,
+    "B": 240,
+    "C": 230,
+    "D": 59
+   },
+   "domain_trends": {
+    "A": [
+     -10.66,
+     0.0097
+    ],
+    "B": [
+     10.07,
+     0.0585
+    ],
+    "C": [
+     6.06,
+     0.1507
+    ],
+    "D": [
+     -5.47,
+     0.1116
+    ]
+   }
+  },
+  "12": {
+   "ari_vs_primary": 0.453,
+   "topics": {
+    "0": {
+     "matched_topic": 1,
+     "cosine": 0.984,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -9.9,
+     "p_fdr": 0.019,
+     "cls": "Cold",
+     "n": 114,
+     "keywords": [
+      "swing",
+      "batting",
+      "visual",
+      "batters",
+      "performance",
+      "motor"
+     ]
+    },
+    "1": {
+     "matched_topic": 9,
+     "cosine": 0.989,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 4.75,
+     "p_fdr": 0.007,
+     "cls": "Hot",
+     "n": 30,
+     "keywords": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "medial",
+      "ucl"
+     ]
+    },
+    "2": {
+     "matched_topic": 6,
+     "cosine": 0.867,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -5.13,
+     "p_fdr": 0.049,
+     "cls": "Cold",
+     "n": 23,
+     "keywords": [
+      "injuries",
+      "injury",
+      "aes",
+      "rates",
+      "men",
+      "women"
+     ]
+    },
+    "3": {
+     "matched_topic": 8,
+     "cosine": 0.969,
+     "share_of_matched_from_primary": 0.922,
+     "b_per_decade": -1.21,
+     "p_fdr": 0.806,
+     "cls": "negative (n.s.)",
+     "n": 51,
+     "keywords": [
+      "elbow",
+      "pitching",
+      "pitchers",
+      "shoulder",
+      "velocity",
+      "trunk"
+     ]
+    },
+    "4": {
+     "matched_topic": 11,
+     "cosine": 0.908,
+     "share_of_matched_from_primary": 0.882,
+     "b_per_decade": 2.24,
+     "p_fdr": 0.593,
+     "cls": "positive (n.s.)",
+     "n": 93,
+     "keywords": [
+      "team",
+      "fans",
+      "social",
+      "teams",
+      "leadership",
+      "professional"
+     ]
+    },
+    "5": {
+     "matched_topic": 4,
+     "cosine": 0.879,
+     "share_of_matched_from_primary": 0.759,
+     "b_per_decade": 5.56,
+     "p_fdr": 0.009,
+     "cls": "Hot",
+     "n": 58,
+     "keywords": [
+      "injuries",
+      "injury",
+      "specialization",
+      "softball",
+      "health",
+      "patient"
+     ]
+    },
+    "6": {
+     "matched_topic": 3,
+     "cosine": 0.82,
+     "share_of_matched_from_primary": 0.42,
+     "b_per_decade": 8.67,
+     "p_fdr": 0.008,
+     "cls": "Hot",
+     "n": 112,
+     "keywords": [
+      "training",
+      "performance",
+      "anxiety",
+      "psychological",
+      "batting",
+      "intervention"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 66,
+     "b": 1.87,
+     "p_fdr": 0.593,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "knowledge",
+      "prediction",
+      "models",
+      "model",
+      "decision"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 114,
+     "b": -9.9,
+     "p_fdr": 0.019,
+     "cls": "Cold",
+     "kw": [
+      "swing",
+      "batting",
+      "visual",
+      "batters",
+      "performance"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 44,
+     "b": -5.59,
+     "p_fdr": 0.117,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "shoulder",
+      "elbow",
+      "throwing",
+      "arm",
+      "rotation"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 112,
+     "b": 8.67,
+     "p_fdr": 0.008,
+     "cls": "Hot",
+     "kw": [
+      "training",
+      "performance",
+      "anxiety",
+      "psychological",
+      "batting"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 58,
+     "b": 5.56,
+     "p_fdr": 0.009,
+     "cls": "Hot",
+     "kw": [
+      "injuries",
+      "injury",
+      "specialization",
+      "softball",
+      "health"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 23,
+     "b": -1.06,
+     "p_fdr": 0.593,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "cardiac",
+      "chest",
+      "commotio",
+      "cordis",
+      "death"
+     ]
+    },
+    {
+     "t": 6,
+     "n": 23,
+     "b": -5.13,
+     "p_fdr": 0.049,
+     "cls": "Cold",
+     "kw": [
+      "injuries",
+      "injury",
+      "aes",
+      "rates",
+      "men"
+     ]
+    },
+    {
+     "t": 7,
+     "n": 25,
+     "b": -0.1,
+     "p_fdr": 0.958,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "pain",
+      "tobacco",
+      "use",
+      "elbow",
+      "shoulder"
+     ]
+    },
+    {
+     "t": 8,
+     "n": 51,
+     "b": -1.21,
+     "p_fdr": 0.806,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "pitching",
+      "pitchers",
+      "shoulder",
+      "velocity"
+     ]
+    },
+    {
+     "t": 9,
+     "n": 30,
+     "b": 4.75,
+     "p_fdr": 0.007,
+     "cls": "Hot",
+     "kw": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "medial"
+     ]
+    },
+    {
+     "t": 10,
+     "n": 32,
+     "b": -0.1,
+     "p_fdr": 0.958,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "concussion",
+      "head",
+      "concussions",
+      "injury",
+      "brain"
+     ]
+    },
+    {
+     "t": 11,
+     "n": 93,
+     "b": 2.24,
+     "p_fdr": 0.593,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "team",
+      "fans",
+      "social",
+      "teams",
+      "leadership"
+     ]
+    }
+   ],
+   "domain_agreement": 0.845,
+   "domain_sizes": {
+    "A": 114,
+    "B": 296,
+    "C": 206,
+    "D": 55
+   },
+   "domain_trends": {
+    "A": [
+     -9.9,
+     0.0189
+    ],
+    "B": [
+     12.68,
+     0.0189
+    ],
+    "C": [
+     2.45,
+     0.4853
+    ],
+    "D": [
+     -5.23,
+     0.1339
+    ]
+   }
+  },
+  "13": {
+   "ari_vs_primary": 0.413,
+   "topics": {
+    "0": {
+     "matched_topic": 1,
+     "cosine": 0.936,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -8.61,
+     "p_fdr": 0.008,
+     "cls": "Cold",
+     "n": 78,
+     "keywords": [
+      "swing",
+      "batting",
+      "batters",
+      "ball",
+      "bat",
+      "performance"
+     ]
+    },
+    "1": {
+     "matched_topic": 0,
+     "cosine": 0.992,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 3.12,
+     "p_fdr": 0.188,
+     "cls": "positive (n.s.)",
+     "n": 32,
+     "keywords": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "medial",
+      "ucl"
+     ]
+    },
+    "2": {
+     "matched_topic": 9,
+     "cosine": 0.893,
+     "share_of_matched_from_primary": 0.967,
+     "b_per_decade": -4.52,
+     "p_fdr": 0.107,
+     "cls": "negative (n.s.)",
+     "n": 30,
+     "keywords": [
+      "injuries",
+      "injury",
+      "aes",
+      "incidence",
+      "rates",
+      "rate"
+     ]
+    },
+    "3": {
+     "matched_topic": 6,
+     "cosine": 0.996,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -0.92,
+     "p_fdr": 0.815,
+     "cls": "negative (n.s.)",
+     "n": 62,
+     "keywords": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "torque",
+      "pitchers",
+      "velocity"
+     ]
+    },
+    "4": {
+     "matched_topic": 5,
+     "cosine": 0.78,
+     "share_of_matched_from_primary": 0.846,
+     "b_per_decade": 2.14,
+     "p_fdr": 0.377,
+     "cls": "positive (n.s.)",
+     "n": 52,
+     "keywords": [
+      "fans",
+      "chest",
+      "social",
+      "cardiac",
+      "commotio",
+      "cordis"
+     ]
+    },
+    "5": {
+     "matched_topic": 3,
+     "cosine": 0.92,
+     "share_of_matched_from_primary": 0.784,
+     "b_per_decade": -2.59,
+     "p_fdr": 0.403,
+     "cls": "negative (n.s.)",
+     "n": 74,
+     "keywords": [
+      "stress",
+      "injury",
+      "shoulder",
+      "humeral",
+      "pitchers",
+      "injuries"
+     ]
+    },
+    "6": {
+     "matched_topic": 10,
+     "cosine": 0.861,
+     "share_of_matched_from_primary": 0.514,
+     "b_per_decade": 7.17,
+     "p_fdr": 0.037,
+     "cls": "Hot",
+     "n": 105,
+     "keywords": [
+      "burnout",
+      "psychological",
+      "professional",
+      "motivation",
+      "life",
+      "training"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 32,
+     "b": 3.12,
+     "p_fdr": 0.188,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "medial"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 78,
+     "b": -8.61,
+     "p_fdr": 0.008,
+     "cls": "Cold",
+     "kw": [
+      "swing",
+      "batting",
+      "batters",
+      "ball",
+      "bat"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 83,
+     "b": 2.37,
+     "p_fdr": 0.564,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "performance",
+      "batting",
+      "visual",
+      "training",
+      "reaction"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 74,
+     "b": -2.59,
+     "p_fdr": 0.403,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "stress",
+      "injury",
+      "shoulder",
+      "humeral",
+      "pitchers"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 45,
+     "b": 5.31,
+     "p_fdr": 0.029,
+     "cls": "Hot",
+     "kw": [
+      "pain",
+      "elbow",
+      "injuries",
+      "shoulder",
+      "youth"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 52,
+     "b": 2.14,
+     "p_fdr": 0.377,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "fans",
+      "chest",
+      "social",
+      "cardiac",
+      "commotio"
+     ]
+    },
+    {
+     "t": 6,
+     "n": 62,
+     "b": -0.92,
+     "p_fdr": 0.815,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "shoulder",
+      "pitching",
+      "torque",
+      "pitchers"
+     ]
+    },
+    {
+     "t": 7,
+     "n": 13,
+     "b": -1.8,
+     "p_fdr": 0.329,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "tobacco",
+      "use",
+      "users",
+      "smokeless",
+      "health"
+     ]
+    },
+    {
+     "t": 8,
+     "n": 34,
+     "b": 0.3,
+     "p_fdr": 0.889,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "motor",
+      "action",
+      "umpires",
+      "cortex",
+      "neural"
+     ]
+    },
+    {
+     "t": 9,
+     "n": 30,
+     "b": -4.52,
+     "p_fdr": 0.107,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "injuries",
+      "injury",
+      "aes",
+      "incidence",
+      "rates"
+     ]
+    },
+    {
+     "t": 10,
+     "n": 105,
+     "b": 7.17,
+     "p_fdr": 0.037,
+     "cls": "Hot",
+     "kw": [
+      "burnout",
+      "psychological",
+      "professional",
+      "motivation",
+      "life"
+     ]
+    },
+    {
+     "t": 11,
+     "n": 29,
+     "b": -1.11,
+     "p_fdr": 0.611,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "team",
+      "leadership",
+      "teams",
+      "home",
+      "advantage"
+     ]
+    },
+    {
+     "t": 12,
+     "n": 34,
+     "b": -0.88,
+     "p_fdr": 0.746,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "concussion",
+      "concussions",
+      "head",
+      "days",
+      "brain"
+     ]
+    }
+   ],
+   "domain_agreement": 0.894,
+   "domain_sizes": {
+    "A": 195,
+    "B": 199,
+    "C": 213,
+    "D": 64
+   },
+   "domain_trends": {
+    "A": [
+     -5.93,
+     0.1078
+    ],
+    "B": [
+     6.4,
+     0.1078
+    ],
+    "C": [
+     4.92,
+     0.2221
+    ],
+    "D": [
+     -5.39,
+     0.1078
+    ]
+   }
+  },
+  "14": {
+   "ari_vs_primary": 0.394,
+   "topics": {
+    "0": {
+     "matched_topic": 11,
+     "cosine": 0.934,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -8.1,
+     "p_fdr": 0.066,
+     "cls": "negative (n.s.)",
+     "n": 75,
+     "keywords": [
+      "swing",
+      "ball",
+      "batters",
+      "visual",
+      "batting",
+      "task"
+     ]
+    },
+    "1": {
+     "matched_topic": 3,
+     "cosine": 0.994,
+     "share_of_matched_from_primary": 0.971,
+     "b_per_decade": 4.71,
+     "p_fdr": 0.01,
+     "cls": "Hot",
+     "n": 34,
+     "keywords": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl",
+      "medial"
+     ]
+    },
+    "2": {
+     "matched_topic": 8,
+     "cosine": 0.885,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -4.97,
+     "p_fdr": 0.066,
+     "cls": "negative (n.s.)",
+     "n": 27,
+     "keywords": [
+      "injuries",
+      "injury",
+      "aes",
+      "rates",
+      "incidence",
+      "men"
+     ]
+    },
+    "3": {
+     "matched_topic": 9,
+     "cosine": 0.97,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": -0.37,
+     "p_fdr": 0.951,
+     "cls": "negative (n.s.)",
+     "n": 43,
+     "keywords": [
+      "elbow",
+      "pitching",
+      "shoulder",
+      "pitchers",
+      "velocity",
+      "trunk"
+     ]
+    },
+    "4": {
+     "matched_topic": 7,
+     "cosine": 0.874,
+     "share_of_matched_from_primary": 1.0,
+     "b_per_decade": 4.53,
+     "p_fdr": 0.1,
+     "cls": "positive (n.s.)",
+     "n": 63,
+     "keywords": [
+      "fans",
+      "social",
+      "korean",
+      "professional",
+      "attention",
+      "fan"
+     ]
+    },
+    "5": {
+     "matched_topic": 10,
+     "cosine": 0.93,
+     "share_of_matched_from_primary": 0.769,
+     "b_per_decade": 6.8,
+     "p_fdr": 0.01,
+     "cls": "Hot",
+     "n": 78,
+     "keywords": [
+      "pain",
+      "injuries",
+      "injury",
+      "elbow",
+      "shoulder",
+      "pitchers"
+     ]
+    },
+    "6": {
+     "matched_topic": 6,
+     "cosine": 0.871,
+     "share_of_matched_from_primary": 0.667,
+     "b_per_decade": 6.92,
+     "p_fdr": 0.01,
+     "cls": "Hot",
+     "n": 66,
+     "keywords": [
+      "burnout",
+      "psychological",
+      "anxiety",
+      "social",
+      "state",
+      "identity"
+     ]
+    }
+   },
+   "all_topics": [
+    {
+     "t": 0,
+     "n": 26,
+     "b": -2.26,
+     "p_fdr": 0.223,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "tobacco",
+      "motivation",
+      "use",
+      "users",
+      "smokeless"
+     ]
+    },
+    {
+     "t": 1,
+     "n": 37,
+     "b": -5.76,
+     "p_fdr": 0.117,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "shoulder",
+      "throwing",
+      "rotation",
+      "arm"
+     ]
+    },
+    {
+     "t": 2,
+     "n": 38,
+     "b": 1.73,
+     "p_fdr": 0.316,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "neural",
+      "motor",
+      "activity",
+      "brain",
+      "cortex"
+     ]
+    },
+    {
+     "t": 3,
+     "n": 34,
+     "b": 4.71,
+     "p_fdr": 0.01,
+     "cls": "Hot",
+     "kw": [
+      "elbow",
+      "valgus",
+      "joint",
+      "stress",
+      "ucl"
+     ]
+    },
+    {
+     "t": 4,
+     "n": 37,
+     "b": 0.27,
+     "p_fdr": 0.951,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "concussion",
+      "head",
+      "injury",
+      "concussions",
+      "brain"
+     ]
+    },
+    {
+     "t": 5,
+     "n": 66,
+     "b": -3.29,
+     "p_fdr": 0.282,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "batting",
+      "performance",
+      "skills",
+      "vision",
+      "training"
+     ]
+    },
+    {
+     "t": 6,
+     "n": 66,
+     "b": 6.92,
+     "p_fdr": 0.01,
+     "cls": "Hot",
+     "kw": [
+      "burnout",
+      "psychological",
+      "anxiety",
+      "social",
+      "state"
+     ]
+    },
+    {
+     "t": 7,
+     "n": 63,
+     "b": 4.53,
+     "p_fdr": 0.1,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "fans",
+      "social",
+      "korean",
+      "professional",
+      "attention"
+     ]
+    },
+    {
+     "t": 8,
+     "n": 27,
+     "b": -4.97,
+     "p_fdr": 0.066,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "injuries",
+      "injury",
+      "aes",
+      "rates",
+      "incidence"
+     ]
+    },
+    {
+     "t": 9,
+     "n": 43,
+     "b": -0.37,
+     "p_fdr": 0.951,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "elbow",
+      "pitching",
+      "shoulder",
+      "pitchers",
+      "velocity"
+     ]
+    },
+    {
+     "t": 10,
+     "n": 78,
+     "b": 6.8,
+     "p_fdr": 0.01,
+     "cls": "Hot",
+     "kw": [
+      "pain",
+      "injuries",
+      "injury",
+      "elbow",
+      "shoulder"
+     ]
+    },
+    {
+     "t": 11,
+     "n": 75,
+     "b": -8.1,
+     "p_fdr": 0.066,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "swing",
+      "ball",
+      "batters",
+      "visual",
+      "batting"
+     ]
+    },
+    {
+     "t": 12,
+     "n": 36,
+     "b": 0.09,
+     "p_fdr": 0.951,
+     "cls": "positive (n.s.)",
+     "kw": [
+      "chest",
+      "heart",
+      "commotio",
+      "cordis",
+      "pressure"
+     ]
+    },
+    {
+     "t": 13,
+     "n": 45,
+     "b": -0.3,
+     "p_fdr": 0.951,
+     "cls": "negative (n.s.)",
+     "kw": [
+      "team",
+      "leadership",
+      "professional",
+      "teams",
+      "home"
+     ]
+    }
+   ],
+   "domain_agreement": 0.89,
+   "domain_sizes": {
+    "A": 179,
+    "B": 200,
+    "C": 228,
+    "D": 64
+   },
+   "domain_trends": {
+    "A": [
+     -9.66,
+     0.0115
+    ],
+    "B": [
+     8.89,
+     0.0433
+    ],
+    "C": [
+     5.47,
+     0.1861
+    ],
+    "D": [
+     -4.7,
+     0.1808
+    ]
+   }
+  }
+ }
+}

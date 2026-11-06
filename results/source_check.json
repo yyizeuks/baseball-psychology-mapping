@@ -1,0 +1,193 @@
+{
+ "source_check": {
+  "match_rate_2005_2014": 0.672,
+  "match_rate_2015_2025": 0.626,
+  "n_matched_window": 353,
+  "n_unmatched_window": 201,
+  "topics": {
+   "0": {
+    "matched": [
+     -9.0,
+     0.031
+    ],
+    "unmatched": [
+     -10.8,
+     0.091
+    ]
+   },
+   "1": {
+    "matched": [
+     6.2,
+     0.007
+    ],
+    "unmatched": [
+     0.4,
+     0.334
+    ]
+   },
+   "2": {
+    "matched": [
+     -5.7,
+     0.103
+    ],
+    "unmatched": [
+     -3.2,
+     0.34
+    ]
+   },
+   "3": {
+    "matched": [
+     -0.0,
+     0.992
+    ],
+    "unmatched": [
+     -5.1,
+     0.291
+    ]
+   },
+   "4": {
+    "matched": [
+     1.0,
+     0.766
+    ],
+    "unmatched": [
+     11.7,
+     0.161
+    ]
+   },
+   "5": {
+    "matched": [
+     6.3,
+     0.011
+    ],
+    "unmatched": [
+     0.3,
+     0.944
+    ]
+   },
+   "6": {
+    "matched": [
+     1.2,
+     0.683
+    ],
+    "unmatched": [
+     6.8,
+     0.067
+    ]
+   }
+  },
+  "domains": {
+   "A": {
+    "matched": [
+     -9.0,
+     0.031
+    ],
+    "unmatched": [
+     -10.8,
+     0.091
+    ]
+   },
+   "B": {
+    "matched": [
+     2.1,
+     0.609
+    ],
+    "unmatched": [
+     18.5,
+     0.045
+    ]
+   },
+   "C": {
+    "matched": [
+     12.5,
+     0.002
+    ],
+    "unmatched": [
+     -4.4,
+     0.571
+    ]
+   },
+   "D": {
+    "matched": [
+     -5.7,
+     0.103
+    ],
+    "unmatched": [
+     -3.2,
+     0.34
+    ]
+   }
+  },
+  "interaction": {
+   "A": {
+    "b_year_unmatched": -0.7,
+    "b_interaction": 0.115,
+    "p_interaction": 0.774
+   },
+   "B": {
+    "b_year_unmatched": 0.765,
+    "b_interaction": -0.422,
+    "p_interaction": 0.257
+   },
+   "C": {
+    "b_year_unmatched": -0.12,
+    "b_interaction": 0.732,
+    "p_interaction": 0.056
+   },
+   "D": {
+    "b_year_unmatched": -0.889,
+    "b_interaction": 0.16,
+    "p_interaction": 0.783
+   },
+   "T0": {
+    "b_year_unmatched": -0.7,
+    "b_interaction": 0.115,
+    "p_interaction": 0.774
+   }
+  }
+ },
+ "venue_new": {
+  "definition": "share of 2015-2025 PubMed-matched articles in journals whose first article in the corpus is dated 2013 or later",
+  "overall": 0.62,
+  "by_domain": {
+   "A": 0.556,
+   "B": 0.733,
+   "C": 0.628,
+   "D": 0.481
+  },
+  "top_new_journals": [
+   [
+    "Orthopaedic journal of sports medicine",
+    26
+   ],
+   [
+    "Frontiers in psychology",
+    11
+   ],
+   [
+    "International journal of sports physical therapy",
+    10
+   ],
+   [
+    "Scientific reports",
+    9
+   ],
+   [
+    "International journal of environmental research and public health",
+    7
+   ],
+   [
+    "Frontiers in sports and active living",
+    6
+   ],
+   [
+    "JSES reviews, reports, and techniques",
+    5
+   ],
+   [
+    "Optometry and vision science : official publication of the American Academy of Optometry",
+    5
+   ]
+  ]
+ }
+}

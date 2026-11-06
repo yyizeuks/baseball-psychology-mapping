@@ -1,0 +1,6 @@
+{
+ "method": "classical MDS (principal coordinates) of cosine distances between topic centroids",
+ "variance_share_2d": 0.718,
+ "stress1": 0.221,
+ "spearman": 0.914
+}

@@ -1,0 +1,72 @@
+{
+ "core_top5": {
+  "A": {
+   "own": 0.3451,
+   "B": 0.192,
+   "C": 0.019,
+   "D": 0.022
+  },
+  "B": {
+   "own": 0.303,
+   "A": 0.221,
+   "C": 0.032,
+   "D": 0.244
+  },
+  "C": {
+   "own": 0.4177,
+   "A": 0.009,
+   "B": 0.061,
+   "D": 0.222
+  },
+  "D": {
+   "own": 0.6,
+   "A": 0.018,
+   "B": 0.081,
+   "C": 0.316
+  }
+ },
+ "top5": {
+  "A": [
+   "plos one",
+   "perceptual and motor skills",
+   "journal of sport & exercise psychology",
+   "research quarterly for exercise and sport",
+   "frontiers in psychology"
+  ],
+  "B": [
+   "perceptual and motor skills",
+   "frontiers in psychology",
+   "journal of athletic training",
+   "international journal of environmental research and public health",
+   "plos one"
+  ],
+  "C": [
+   "the american journal of sports medicine",
+   "orthopaedic journal of sports medicine",
+   "journal of shoulder and elbow surgery",
+   "international journal of sports physical therapy",
+   "jses reviews, reports, and techniques"
+  ],
+  "D": [
+   "journal of athletic training",
+   "the american journal of sports medicine",
+   "clinical journal of sport medicine : official journal of the canadian academy of sport medicine",
+   "pediatrics",
+   "orthopaedic journal of sports medicine"
+  ]
+ },
+ "docweighted": {
+  "A->B": 0.407,
+  "A->C": 0.336,
+  "A->D": 0.15,
+  "B->A": 0.455,
+  "B->C": 0.465,
+  "B->D": 0.202,
+  "C->A": 0.323,
+  "C->B": 0.411,
+  "C->D": 0.392,
+  "D->A": 0.178,
+  "D->B": 0.378,
+  "D->C": 0.644
+ }
+}

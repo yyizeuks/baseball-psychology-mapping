@@ -1,0 +1,1195 @@
+{
+ "n": 671,
+ "matched": 415,
+ "match_rate": 0.618,
+ "match_by_domain": {
+  "A": 0.715,
+  "B": 0.409,
+  "C": 0.749,
+  "D": 0.75
+ },
+ "match_by_period": {
+  "1990-2004": 0.487,
+  "2005-2014": 0.672,
+  "2015-2026": 0.625
+ },
+ "country_coverage": {
+  "records_with_affiliation": 413,
+  "records_with_country": 366
+ },
+ "top_countries": [
+  [
+   "United States",
+   222
+  ],
+  [
+   "Japan",
+   82
+  ],
+  [
+   "Taiwan",
+   22
+  ],
+  [
+   "Canada",
+   19
+  ],
+  [
+   "United Kingdom",
+   14
+  ],
+  [
+   "Australia",
+   13
+  ],
+  [
+   "South Korea",
+   11
+  ],
+  [
+   "China",
+   10
+  ],
+  [
+   "Netherlands",
+   5
+  ],
+  [
+   "Switzerland",
+   3
+  ],
+  [
+   "Italy",
+   3
+  ],
+  [
+   "Spain",
+   3
+  ],
+  [
+   "Germany",
+   3
+  ],
+  [
+   "Israel",
+   2
+  ],
+  [
+   "New Zealand",
+   2
+  ]
+ ],
+ "international_collaboration_rate": 0.109,
+ "country_edges_top": [
+  [
+   "United States",
+   "United Kingdom",
+   7
+  ],
+  [
+   "United States",
+   "Canada",
+   7
+  ],
+  [
+   "Japan",
+   "United States",
+   5
+  ],
+  [
+   "United States",
+   "Australia",
+   5
+  ],
+  [
+   "United States",
+   "Taiwan",
+   3
+  ],
+  [
+   "United States",
+   "South Korea",
+   3
+  ],
+  [
+   "Japan",
+   "Australia",
+   2
+  ],
+  [
+   "United States",
+   "China",
+   2
+  ],
+  [
+   "China",
+   "United Kingdom",
+   2
+  ],
+  [
+   "China",
+   "Taiwan",
+   2
+  ],
+  [
+   "United Kingdom",
+   "Canada",
+   2
+  ],
+  [
+   "United Kingdom",
+   "Germany",
+   2
+  ]
+ ],
+ "country_by_domain": {
+  "A": [
+   [
+    "United States",
+    43
+   ],
+   [
+    "Japan",
+    28
+   ],
+   [
+    "Taiwan",
+    10
+   ],
+   [
+    "Australia",
+    6
+   ],
+   [
+    "United Kingdom",
+    6
+   ],
+   [
+    "Canada",
+    5
+   ]
+  ],
+  "B": [
+   [
+    "United States",
+    52
+   ],
+   [
+    "Japan",
+    15
+   ],
+   [
+    "Taiwan",
+    8
+   ],
+   [
+    "South Korea",
+    7
+   ],
+   [
+    "China",
+    5
+   ],
+   [
+    "Canada",
+    5
+   ]
+  ],
+  "C": [
+   [
+    "United States",
+    94
+   ],
+   [
+    "Japan",
+    37
+   ],
+   [
+    "Canada",
+    8
+   ],
+   [
+    "United Kingdom",
+    5
+   ],
+   [
+    "Taiwan",
+    4
+   ],
+   [
+    "Australia",
+    4
+   ]
+  ],
+  "D": [
+   [
+    "United States",
+    33
+   ],
+   [
+    "Japan",
+    2
+   ],
+   [
+    "Switzerland",
+    2
+   ],
+   [
+    "United Kingdom",
+    1
+   ],
+   [
+    "Canada",
+    1
+   ]
+  ]
+ },
+ "east_asia_share_of_country_records": 0.328,
+ "top_institutions": [
+  [
+   "Mayo Clinic",
+   7
+  ],
+  [
+   "Gunma University Graduate School of Medicine",
+   7
+  ],
+  [
+   "National Institute of Fitness and Sports in Kanoya",
+   6
+  ],
+  [
+   "University of California, San Francisco",
+   6
+  ],
+  [
+   "Connecticut Children's Medical Center",
+   6
+  ],
+  [
+   "Wake Forest School of Medicine",
+   5
+  ],
+  [
+   "National Taiwan Sport University",
+   4
+  ],
+  [
+   "University of Tokyo",
+   4
+  ],
+  [
+   "Niigata University of Health and Welfare",
+   4
+  ],
+  [
+   "Waseda University",
+   4
+  ],
+  [
+   "Arizona State University",
+   4
+  ],
+  [
+   "Murdoch University",
+   4
+  ],
+  [
+   "Chung-Ang University",
+   3
+  ],
+  [
+   "California State University",
+   3
+  ],
+  [
+   "American Sports Medicine Institute",
+   3
+  ]
+ ],
+ "institution_collaboration": {
+  "records_with_multi_author_affiliations": 266,
+  "multi_institution_rate": 0.643,
+  "mean_institutions": 2.33
+ },
+ "n_journals": 150,
+ "top_journals": [
+  [
+   "American Journal of Sports Medicine",
+   32
+  ],
+  [
+   "Orthopaedic Journal of Sports Medicine",
+   26
+  ],
+  [
+   "PLOS ONE",
+   18
+  ],
+  [
+   "Perceptual and Motor Skills",
+   18
+  ],
+  [
+   "Journal of Athletic Training",
+   17
+  ],
+  [
+   "Frontiers in Psychology",
+   11
+  ],
+  [
+   "International Journal of Sports Physical Therapy",
+   10
+  ],
+  [
+   "Journal of Shoulder and Elbow Surgery",
+   10
+  ],
+  [
+   "Scientific Reports",
+   9
+  ],
+  [
+   "Journal of Strength and Conditioning Research",
+   9
+  ],
+  [
+   "Clinical Journal of Sport Medicine",
+   8
+  ],
+  [
+   "Journal of Sport & Exercise Psychology",
+   8
+  ],
+  [
+   "Sports Biomechanics",
+   7
+  ],
+  [
+   "International Journal of Environmental Research and Public Health",
+   7
+  ],
+  [
+   "Research Quarterly for Exercise and Sport",
+   7
+  ],
+  [
+   "Frontiers in Sports and Active Living",
+   6
+  ],
+  [
+   "Journal of Orthopaedic Science",
+   6
+  ],
+  [
+   "Journal of Sports Science & Medicine",
+   6
+  ],
+  [
+   "Journal of Sports Sciences",
+   6
+  ],
+  [
+   "JSES Reviews, Reports, and Techniques",
+   5
+  ]
+ ],
+ "top_journals_by_domain": {
+  "A": [
+   [
+    "PLOS ONE",
+    11
+   ],
+   [
+    "Perceptual and Motor Skills",
+    8
+   ],
+   [
+    "Journal of Sport & Exercise Psychology",
+    8
+   ],
+   [
+    "Research Quarterly for Exercise and Sport",
+    7
+   ],
+   [
+    "Frontiers in Psychology",
+    5
+   ]
+  ],
+  "B": [
+   [
+    "Perceptual and Motor Skills",
+    9
+   ],
+   [
+    "Frontiers in Psychology",
+    6
+   ],
+   [
+    "Journal of Athletic Training",
+    6
+   ],
+   [
+    "International Journal of Environmental Research and Public Health",
+    5
+   ],
+   [
+    "PLOS ONE",
+    4
+   ]
+  ],
+  "C": [
+   [
+    "American Journal of Sports Medicine",
+    25
+   ],
+   [
+    "Orthopaedic Journal of Sports Medicine",
+    21
+   ],
+   [
+    "Journal of Shoulder and Elbow Surgery",
+    9
+   ],
+   [
+    "International Journal of Sports Physical Therapy",
+    6
+   ],
+   [
+    "JSES Reviews, Reports, and Techniques",
+    5
+   ]
+  ],
+  "D": [
+   [
+    "Journal of Athletic Training",
+    10
+   ],
+   [
+    "American Journal of Sports Medicine",
+    7
+   ],
+   [
+    "Clinical Journal of Sport Medicine",
+    4
+   ],
+   [
+    "Pediatrics",
+    4
+   ],
+   [
+    "Orthopaedic Journal of Sports Medicine",
+    2
+   ]
+  ]
+ },
+ "top_journals_by_topic": {
+  "0": [
+   [
+    "PLOS ONE",
+    11
+   ],
+   [
+    "Perceptual and Motor Skills",
+    8
+   ],
+   [
+    "Journal of Sport & Exercise Psychology",
+    8
+   ]
+  ],
+  "1": [
+   [
+    "Orthopaedic Journal of Sports Medicine",
+    8
+   ],
+   [
+    "American Journal of Sports Medicine",
+    4
+   ],
+   [
+    "JSES International",
+    3
+   ]
+  ],
+  "2": [
+   [
+    "Journal of Athletic Training",
+    10
+   ],
+   [
+    "American Journal of Sports Medicine",
+    7
+   ],
+   [
+    "Clinical Journal of Sport Medicine",
+    4
+   ]
+  ],
+  "3": [
+   [
+    "American Journal of Sports Medicine",
+    17
+   ],
+   [
+    "Orthopaedic Journal of Sports Medicine",
+    6
+   ],
+   [
+    "Journal of Shoulder and Elbow Surgery",
+    5
+   ]
+  ],
+  "4": [
+   [
+    "Frontiers in Psychology",
+    5
+   ],
+   [
+    "Perceptual and Motor Skills",
+    4
+   ],
+   [
+    "Psychological Science",
+    3
+   ]
+  ],
+  "5": [
+   [
+    "Orthopaedic Journal of Sports Medicine",
+    7
+   ],
+   [
+    "American Journal of Sports Medicine",
+    4
+   ],
+   [
+    "International Journal of Sports Physical Therapy",
+    3
+   ]
+  ],
+  "6": [
+   [
+    "Journal of Athletic Training",
+    6
+   ],
+   [
+    "Perceptual and Motor Skills",
+    5
+   ],
+   [
+    "International Journal of Sports Physical Therapy",
+    3
+   ]
+  ]
+ },
+ "journal_overlap": {
+  "T5_vs_T4": 0.07,
+  "T0_vs_T4": 0.141,
+  "T1_vs_T4": 0.059,
+  "T5_vs_T6": 0.141,
+  "A_vs_B": 0.156,
+  "A_vs_C": 0.136,
+  "B_vs_C": 0.154
+ },
+ "author_overlap": {
+  "A_vs_B": {
+   "shared": 14,
+   "jaccard": 0.02
+  },
+  "A_vs_C": {
+   "shared": 8,
+   "jaccard": 0.008
+  },
+  "B_vs_C": {
+   "shared": 16,
+   "jaccard": 0.015
+  }
+ },
+ "n_unique_authors_matched": 1589,
+ "mean_authors_per_paper": 4.88,
+ "single_author_share": 0.042,
+ "citations": {
+  "basis": "PubMed/PMC cited-in links",
+  "n_with_counts": 415,
+  "total": 5133,
+  "mean": 12.37,
+  "median": 4.0,
+  "h_index": 33,
+  "uncited_share": 0.178,
+  "max": 695
+ },
+ "citations_by_domain": {
+  "A": {
+   "mean": 8.89,
+   "median": 5.0,
+   "mean_per_year": 0.8
+  },
+  "B": {
+   "mean": 5.82,
+   "median": 2.0,
+   "mean_per_year": 0.54
+  },
+  "C": {
+   "mean": 10.36,
+   "median": 5.0,
+   "mean_per_year": 1.1
+  },
+  "D": {
+   "mean": 42.56,
+   "median": 8.0,
+   "mean_per_year": 2.97
+  }
+ },
+ "citations_by_topic": {
+  "0": {
+   "mean": 8.89,
+   "median": 5.0,
+   "mean_per_year": 0.8
+  },
+  "1": {
+   "mean": 8.27,
+   "median": 3.0,
+   "mean_per_year": 0.85
+  },
+  "2": {
+   "mean": 42.56,
+   "median": 8.0,
+   "mean_per_year": 2.97
+  },
+  "3": {
+   "mean": 12.75,
+   "median": 6.5,
+   "mean_per_year": 1.18
+  },
+  "4": {
+   "mean": 6.65,
+   "median": 1.0,
+   "mean_per_year": 0.51
+  },
+  "5": {
+   "mean": 9.49,
+   "median": 4.0,
+   "mean_per_year": 1.18
+  },
+  "6": {
+   "mean": 4.89,
+   "median": 3.0,
+   "mean_per_year": 0.56
+  }
+ },
+ "top_cited_domains": [
+  [
+   "D",
+   9
+  ],
+  [
+   "C",
+   8
+  ],
+  [
+   "B",
+   2
+  ],
+  [
+   "A",
+   1
+  ]
+ ],
+ "keyword_coverage": {
+  "records_with_keywords": 481,
+  "share": 0.717
+ },
+ "n_keywords_total": 1439,
+ "n_keywords_min5": 126,
+ "top_keywords": [
+  [
+   "biomechanical phenomena",
+   72
+  ],
+  [
+   "athletic injuries",
+   71
+  ],
+  [
+   "psychomotor performance",
+   49
+  ],
+  [
+   "athletic performance",
+   47
+  ],
+  [
+   "elbow",
+   45
+  ],
+  [
+   "elbow joint",
+   39
+  ],
+  [
+   "reaction time",
+   31
+  ],
+  [
+   "shoulder joint",
+   28
+  ],
+  [
+   "range of motion, articular",
+   27
+  ],
+  [
+   "shoulder",
+   27
+  ],
+  [
+   "brain concussion",
+   24
+  ],
+  [
+   "incidence",
+   24
+  ],
+  [
+   "motor skills",
+   24
+  ],
+  [
+   "pitching",
+   24
+  ],
+  [
+   "visual perception",
+   24
+  ],
+  [
+   "brain",
+   22
+  ],
+  [
+   "motion perception",
+   22
+  ],
+  [
+   "decision making",
+   21
+  ],
+  [
+   "elbow injury",
+   21
+  ],
+  [
+   "rotation",
+   20
+  ],
+  [
+   "movement",
+   19
+  ],
+  [
+   "cognition",
+   16
+  ],
+  [
+   "torque",
+   16
+  ],
+  [
+   "risk factor",
+   16
+  ],
+  [
+   "attention",
+   16
+  ],
+  [
+   "kinetics",
+   16
+  ],
+  [
+   "schools",
+   16
+  ],
+  [
+   "shoulder injuries",
+   15
+  ],
+  [
+   "arm",
+   15
+  ],
+  [
+   "age factors",
+   15
+  ]
+ ],
+ "coword": {
+  "n_nodes": 121,
+  "n_edges": 668,
+  "n_communities": 6,
+  "modularity": 0.506,
+  "communities": [
+   {
+    "id": 0,
+    "size": 41,
+    "top": [
+     "athletic injuries",
+     "brain concussion",
+     "incidence",
+     "risk factor",
+     "schools",
+     "age factors",
+     "football",
+     "basketball"
+    ],
+    "topic_profile": [
+     5.6,
+     1.2,
+     48.3,
+     2.5,
+     8.5,
+     38.5,
+     18.4
+    ],
+    "dominant_topic": 2
+   },
+   {
+    "id": 1,
+    "size": 39,
+    "top": [
+     "biomechanical phenomena",
+     "elbow",
+     "elbow joint",
+     "shoulder joint",
+     "range of motion, articular",
+     "shoulder",
+     "pitching",
+     "elbow injury"
+    ],
+    "topic_profile": [
+     14.6,
+     28.3,
+     2.4,
+     51.3,
+     1.8,
+     30.9,
+     1.8
+    ],
+    "dominant_topic": 3
+   },
+   {
+    "id": 2,
+    "size": 33,
+    "top": [
+     "psychomotor performance",
+     "athletic performance",
+     "reaction time",
+     "visual perception",
+     "motor skills",
+     "brain",
+     "motion perception",
+     "decision making"
+    ],
+    "topic_profile": [
+     90.2,
+     0.1,
+     2.4,
+     1.9,
+     18.8,
+     4.3,
+     9.3
+    ],
+    "dominant_topic": 0
+   },
+   {
+    "id": 3,
+    "size": 3,
+    "top": [
+     "exercise",
+     "heart rate",
+     "physical activity"
+    ],
+    "topic_profile": [
+     1.7,
+     0.0,
+     0.0,
+     0.2,
+     0.0,
+     3.3,
+     5.5
+    ],
+    "dominant_topic": 6
+   },
+   {
+    "id": 4,
+    "size": 3,
+    "top": [
+     "sports equipment",
+     "acceleration",
+     "pressure"
+    ],
+    "topic_profile": [
+     1.1,
+     0.0,
+     1.4,
+     0.1,
+     0.0,
+     2.1,
+     0.0
+    ],
+    "dominant_topic": 5
+   },
+   {
+    "id": 5,
+    "size": 2,
+    "top": [
+     "proprioception",
+     "postural balance"
+    ],
+    "topic_profile": [
+     0.8,
+     0.3,
+     0.4,
+     0.0,
+     0.0,
+     0.9,
+     0.0
+    ],
+    "dominant_topic": 5
+   }
+  ],
+  "n_drawn": 73,
+  "n_drawn_min_occurrences": 8
+ },
+ "mesh_coverage": 304,
+ "top_mesh": [
+  [
+   "Biomechanical Phenomena",
+   61
+  ],
+  [
+   "Athletic Injuries",
+   51
+  ],
+  [
+   "Athletic Performance",
+   44
+  ],
+  [
+   "Elbow Joint",
+   37
+  ],
+  [
+   "Psychomotor Performance",
+   36
+  ],
+  [
+   "Motor Skills",
+   23
+  ],
+  [
+   "Range of Motion, Articular",
+   23
+  ],
+  [
+   "Shoulder Joint",
+   23
+  ],
+  [
+   "Brain",
+   20
+  ],
+  [
+   "Reaction Time",
+   20
+  ],
+  [
+   "Brain Concussion",
+   19
+  ],
+  [
+   "Incidence",
+   19
+  ],
+  [
+   "Elbow Injuries",
+   18
+  ],
+  [
+   "Visual Perception",
+   17
+  ],
+  [
+   "Motion Perception",
+   16
+  ],
+  [
+   "Elbow",
+   15
+  ],
+  [
+   "Arm",
+   15
+  ],
+  [
+   "Movement",
+   15
+  ],
+  [
+   "Shoulder Injuries",
+   14
+  ],
+  [
+   "Rotation",
+   14
+  ],
+  [
+   "Cognition",
+   13
+  ],
+  [
+   "Decision Making",
+   13
+  ],
+  [
+   "Torque",
+   13
+  ],
+  [
+   "Stress, Psychological",
+   13
+  ],
+  [
+   "Attention",
+   12
+  ]
+ ],
+ "mesh_network": {
+  "nodes": 63,
+  "edges": 185,
+  "communities": 5,
+  "modularity": 0.506
+ },
+ "latest_pubmed_year_month": [
+  2026,
+  10
+ ],
+ "latest_year_in_corpus": 2026,
+ "authors": {
+  "distinct": 1589,
+  "ge2": 237,
+  "ge5": 26,
+  "top": [
+   [
+    "Tajika T",
+    11,
+    "C"
+   ],
+   [
+    "Gray R",
+    11,
+    "A"
+   ],
+   [
+    "Takagishi K",
+    9,
+    "C"
+   ],
+   [
+    "Fleisig GS",
+    8,
+    "C"
+   ],
+   [
+    "Bullock GS",
+    7,
+    "C"
+   ],
+   [
+    "Nakamoto H",
+    7,
+    "A"
+   ],
+   [
+    "Dines JS",
+    7,
+    "C"
+   ],
+   [
+    "Sasaki T",
+    7,
+    "C"
+   ],
+   [
+    "Shitara H",
+    7,
+    "C"
+   ],
+   [
+    "Chikuda H",
+    6,
+    "C"
+   ],
+   [
+    "Solomito MJ",
+    6,
+    "C"
+   ],
+   [
+    "Nissen CW",
+    6,
+    "C"
+   ],
+   [
+    "Garibay EJ",
+    6,
+    "C"
+   ],
+   [
+    "D'Angelo J",
+    6,
+    "C"
+   ],
+   [
+    "Iwasaki N",
+    6,
+    "C"
+   ]
+  ]
+ },
+ "coauthor_network": {
+  "nodes": 237,
+  "edges": 554,
+  "components": 44,
+  "largest": [
+   53,
+   35,
+   21
+  ],
+  "largest_mix": [
+   {
+    "C": 48,
+    "A": 5
+   },
+   {
+    "D": 7,
+    "C": 28
+   },
+   {
+    "B": 10,
+    "C": 11
+   }
+  ],
+  "within_domain_edge_share": 0.892,
+  "prolific_not_drawn": [
+   [
+    "Gray R",
+    11,
+    1
+   ]
+  ]
+ }
+}

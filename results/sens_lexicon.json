@@ -1,0 +1,252 @@
+{
+ "name": "strict lexicon",
+ "cascade": {
+  "retrieved": 1848,
+  "duplicates_removed": 196,
+  "after_deduplication": 1652,
+  "excluded_publication_type": 6,
+  "excluded_publication_type_titles": [
+   "Erratum to \u201cAttributional style, psychological consequences, and resilience in high school baseball players under perceived failure\u201d",
+   "Three lessons for genetic toxicology from baseball analytics.",
+   "In support of a hot hand in professional basketball and baseball.",
+   "Wendell Richard Garner (1921-2008).",
+   "Elbow and shoulder lesions of baseball players : George E. Bennett MD (1885-1962). The 8th president of the AAOS 1939.",
+   "Sports medicine across Missouri: interviews with Dr. Paul Meyer and Dr. Stanley London. Interview by Thomas D. Eppright, Shane Bradley, Maureen Alwood."
+  ],
+  "after_publication_type": 1646,
+  "excluded_abstract_total": 222,
+  "excluded_abstract_missing": 220,
+  "excluded_abstract_short": 2,
+  "excluded_abstract_by_period": {
+   "pre-1990": 9,
+   "1990-1999": 14,
+   "2000-2009": 22,
+   "2010-2019": 99,
+   "2020-2026": 78
+  },
+  "records_by_period_after_dedup": {
+   "pre-1990": 40,
+   "1990-1999": 84,
+   "2000-2009": 202,
+   "2010-2019": 555,
+   "2020-2026": 765
+  },
+  "after_abstract_completeness": 1424,
+  "excluded_language": 0,
+  "after_language": 1424,
+  "excluded_year_window": 31,
+  "after_year_window": 1393,
+  "excluded_topicality": 268,
+  "after_topicality": 1125,
+  "excluded_relevance": 625,
+  "after_relevance_screen": 500,
+  "retention_rate": 0.4444,
+  "retention_rate_of_eligible": 0.3589
+ },
+ "n": 500,
+ "n_strict": 500,
+ "n_in_primary": 500,
+ "share_of_primary_retained": 0.745,
+ "rule_K": 8,
+ "admissible": [
+  6,
+  7,
+  8,
+  9,
+  10,
+  12
+ ],
+ "min_cluster": 19,
+ "ari_shared": 0.453,
+ "ari_shared_docs": 0.453,
+ "topics": [
+  {
+   "strict_t": 0,
+   "primary_match": 5,
+   "match_quality": 0.0,
+   "n": 30,
+   "b": 0.92,
+   "p_fdr": 0.634,
+   "cls": "positive (n.s.)",
+   "kw": [
+    "neural",
+    "prediction",
+    "motor",
+    "networks",
+    "functional",
+    "action"
+   ]
+  },
+  {
+   "strict_t": 1,
+   "primary_match": 1,
+   "match_quality": 1.0,
+   "n": 30,
+   "b": 5.99,
+   "p_fdr": 0.002,
+   "cls": "Hot",
+   "kw": [
+    "elbow",
+    "valgus",
+    "joint",
+    "stress",
+    "ucl",
+    "medial"
+   ]
+  },
+  {
+   "strict_t": 2,
+   "primary_match": 0,
+   "match_quality": 0.989,
+   "n": 89,
+   "b": -15.24,
+   "p_fdr": 0.023,
+   "cls": "Cold",
+   "kw": [
+    "batting",
+    "swing",
+    "ball",
+    "batters",
+    "visual",
+    "task"
+   ]
+  },
+  {
+   "strict_t": 3,
+   "primary_match": 3,
+   "match_quality": 0.762,
+   "n": 63,
+   "b": -6.81,
+   "p_fdr": 0.197,
+   "cls": "negative (n.s.)",
+   "kw": [
+    "elbow",
+    "shoulder",
+    "pitchers",
+    "pitching",
+    "torque",
+    "stress"
+   ]
+  },
+  {
+   "strict_t": 4,
+   "primary_match": 6,
+   "match_quality": 0.257,
+   "n": 74,
+   "b": 4.29,
+   "p_fdr": 0.197,
+   "cls": "positive (n.s.)",
+   "kw": [
+    "training",
+    "skills",
+    "batting",
+    "cognitive",
+    "intervention",
+    "motor"
+   ]
+  },
+  {
+   "strict_t": 5,
+   "primary_match": 2,
+   "match_quality": 0.487,
+   "n": 78,
+   "b": 1.73,
+   "p_fdr": 0.634,
+   "cls": "positive (n.s.)",
+   "kw": [
+    "concussion",
+    "injury",
+    "injuries",
+    "head",
+    "concussions",
+    "brain"
+   ]
+  },
+  {
+   "strict_t": 6,
+   "primary_match": 4,
+   "match_quality": 0.632,
+   "n": 136,
+   "b": 9.12,
+   "p_fdr": 0.157,
+   "cls": "positive (n.s.)",
+   "kw": [
+    "social",
+    "professional",
+    "team",
+    "fans",
+    "identity",
+    "motivation"
+   ]
+  }
+ ],
+ "primary_topic_trends_in_variant": {
+  "0": {
+   "n": 152,
+   "b": -16.86,
+   "p": 0.0010282744200282696,
+   "p_fdr": 0.007,
+   "cls": "Cold"
+  },
+  "1": {
+   "n": 35,
+   "b": 5.16,
+   "p": 0.00353058756984779,
+   "p_fdr": 0.01,
+   "cls": "Hot"
+  },
+  "2": {
+   "n": 38,
+   "b": -0.94,
+   "p": 0.7692960190892796,
+   "p_fdr": 0.769,
+   "cls": "negative (n.s.)"
+  },
+  "3": {
+   "n": 49,
+   "b": -2.5,
+   "p": 0.4505540571011197,
+   "p_fdr": 0.568,
+   "cls": "negative (n.s.)"
+  },
+  "4": {
+   "n": 109,
+   "b": 5.7,
+   "p": 0.23061644194351968,
+   "p_fdr": 0.404,
+   "cls": "positive (n.s.)"
+  },
+  "5": {
+   "n": 48,
+   "b": 1.78,
+   "p": 0.4868740490368313,
+   "p_fdr": 0.568,
+   "cls": "positive (n.s.)"
+  },
+  "6": {
+   "n": 69,
+   "b": 7.66,
+   "p": 0.004201201423553565,
+   "p_fdr": 0.01,
+   "cls": "Hot"
+  }
+ },
+ "domain_trends": {
+  "A": [
+   -16.86,
+   0.004
+  ],
+  "B": [
+   13.36,
+   0.038
+  ],
+  "C": [
+   4.44,
+   0.409
+  ],
+  "D": [
+   -0.94,
+   0.769
+  ]
+ }
+}
