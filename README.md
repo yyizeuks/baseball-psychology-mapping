@@ -4,7 +4,9 @@ Code, data, and results for:
 
 > Lee, J. W., and Han, D. H. Mapping the knowledge structure of baseball psychology research: a systematic mapping review using topic modeling and an auditable relevance screen. *Frontiers in Psychology* (under review).
 
-Repository: https://github.com/yyizeuks/baseball-psychology-mapping. Archived releases of this repository are deposited on Zenodo through the GitHub–Zenodo integration; the DOI of the release cited in the article is given in the article's Data Availability Statement and in `CITATION.cff`.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24050512.svg)](https://doi.org/10.5281/zenodo.24050512)
+
+Repository: https://github.com/yyizeuks/baseball-psychology-mapping. The release archived on Zenodo and cited in the article's Data Availability Statement is v1.2.0, doi: [10.5281/zenodo.24050512](https://doi.org/10.5281/zenodo.24050512) (see also `CITATION.cff`).
 
 Every statistic, table, and figure in the manuscript is regenerated from the retrieved records by the scripts in `code/` under a fixed random seed (42). Run the scripts with `PYTHONHASHSEED=0` so that the ordering of tied keyword counts is identical across runs.
 

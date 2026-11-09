@@ -11,5 +11,10 @@ authors:
     affiliation: Department of Psychiatry, Chung-Ang University Hospital
 version: 1.2.0
 date-released: 2026-11-07
+doi: 10.5281/zenodo.24050512
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24050512
+    description: Zenodo archive of release v1.2.0
 repository-code: https://github.com/yyizeuks/baseball-psychology-mapping
 license: MIT
